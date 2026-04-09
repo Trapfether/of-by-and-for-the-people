@@ -26,14 +26,31 @@
        * [Section 2 — Civic Education](#section-2--civic-education)
        * [Section 3 — Neutral Instruction](#section-3--neutral-instruction)
        * [Section 4 — Civic Responsibility](#section-4--civic-responsibility)
+     * [Article 5 — Citizen Feedback](#article-5--citizen-feedback)
+       * [Section 1 — Purpose](#section-1--purpose-1)
+       * [Section 2 — Complaint Submissions](#section-2--complaint-submissions)
+       * [Section 3 — Open-Ended Feedback](#section-3--open-ended-feedback)
+       * [Section 4 — Submission Process](#section-4--submission-process)
+       * [Section 5 — Universal Distribution](#section-5--universal-distribution)
+       * [Section 6 — Public Availability](#section-6--public-availability)
+       * [Section 7 — Legislator Obligations](#section-7--legislator-obligations)
+       * [Section 8 — Anonymity](#section-8--anonymity)
    * [Part III — Political Communication and Elections](#part-iii-—-political-communication-and-elections)
-     * [Article 5 — Political Speech](#article-5--political-speech)
+     * [Article 6 — Political Speech](#article-6--political-speech)
        * [Section 1 — Individual Political Speech](#section-1--individual-political-speech)
        * [Section 2 — Organizational Political Speech](#section-2--organizational-political-speech)
        * [Section 3 — Election Silence Period](#section-3--election-silence-period)
        * [Section 4 — Exceptions](#section-4--exceptions)
        * [Section 5 — Challenges](#section-5--challenges)
-     * [Article 6 — Campaign Structure](#article-6--campaign-structure)
+     * [Article 7 — Full Ballot Eligibility](#article-7--full-ballot-eligibility)
+       * [Section 1 — Purpose](#section-1--purpose-2)
+       * [Section 2 — Platform Freeze](#section-2--platform-freeze)
+       * [Section 3 — Citizen Question Panel](#section-3--citizen-question-panel)
+       * [Section 4 — Ballot Eligibility Test](#section-4--ballot-eligibility-test)
+       * [Section 5 — Ballot Assignment](#section-5--ballot-assignment)
+       * [Section 6 — Amendments](#section-6--amendments-1)
+       * [Section 7 — Effect of Removal](#section-7--effect-of-removal)
+     * [Article 8 — Campaign Structure](#article-8--campaign-structure)
        * [Section 1 — Public Campaign Funding](#section-1--public-campaign-funding)
        * [Section 2 — Official Election Platform](#section-2--official-election-platform)
        * [Section 3 — Campaign Advertising](#section-3--campaign-advertising)
@@ -43,10 +60,10 @@
        * [Section 7 — Public Engagement](#section-7--public-engagement)
        * [Section 8 — Importance of Platform Oversight](#section-8--importance-of-platform-oversight)
    * [Part IV — Limits on State Power](#part-iv-—-limits-on-state-power)
-     * [Article 7 — Prohibition of Capital Punishment](#article-7--prohibition-of-capital-punishment)
+     * [Article 9 — Prohibition of Capital Punishment](#article-9--prohibition-of-capital-punishment)
        * [Section 1 — Ban on Execution](#section-1--ban-on-execution)
        * [Section 2 — Purpose of the Ban](#section-2--purpose-of-the-ban)
-     * [Article 8 — Government Use of Lethal Force](#article-8--government-use-of-lethal-force)
+     * [Article 10 — Government Use of Lethal Force](#article-10--government-use-of-lethal-force)
        * [Section 1 — Limited Authorization](#section-1--limited-authorization)
        * [Section 2 — Required Conditions](#section-2--required-conditions)
        * [Section 3 — Professional Consequences](#section-3--professional-consequences)
@@ -191,8 +208,46 @@
         Citizens are responsible for staying informed about their government.
         They must monitor government actions and hold officials accountable for abuses of power.
         Without active civic engagement, bad actors may attempt to manufacture consent for policies that harm the public.
+    * #### Article 5 — Citizen Feedback
+      * ##### Section 1 — Purpose
+        Citizens who participate in elections invest time and attention in their government.
+        That investment earns them a voice beyond a simple vote.
+        This Article creates a structured mechanism for citizens to communicate directly with every level of their government.
+      * ##### Section 2 — Complaint Submissions
+        Any citizen eligible to participate in Revocation Votes may submit a complaint as part of the voting process.
+        Complaints shall take the form of a structured poll covering common hardships and grievances.
+        The complaint poll shall present fixed categories and options; it shall not include open-ended fields.
+        The categories and options in the complaint poll shall be reviewed and updated periodically by a process established by law.
+      * ##### Section 3 — Open-Ended Feedback
+        Citizens who are fully eligible to vote in elections — not only Revocation Votes — may additionally submit open-ended feedback.
+        Open-ended feedback may include:
+          * Comments on the state of governance or quality of public services
+          * Recommendations for legislation, policy, or reform
+          * Any other input the citizen believes is relevant to the public interest
+        There is no required format for open-ended feedback.
+      * ##### Section 4 — Submission Process
+        Feedback shall be submitted through the same system used for voting.
+        There shall be no additional barriers to submitting feedback beyond those required to verify the citizen's applicable eligibility.
+        Submitting feedback is optional and shall not affect the validity of a citizen's vote.
+      * ##### Section 5 — Universal Distribution
+        All feedback submitted by a citizen shall be delivered to every level of government with jurisdiction over that citizen.
+        This includes, at minimum: the relevant municipality, county, state, and federal bodies.
+        No feedback is directed at any single official or body. Each level of government receives a complete copy of all feedback from the citizens within its jurisdiction.
+        This ensures that every layer of government can observe how its citizens are living, what they are experiencing, and what they believe needs to change.
+        The compiled feedback shall be delivered no later than thirty days after the close of the voting period.
+      * ##### Section 6 — Public Availability
+        All compiled feedback shall be made publicly available in a searchable and accessible format.
+        Public records of compiled feedback shall be maintained for a minimum of twenty years.
+      * ##### Section 7 — Legislator Obligations
+        Officials who receive compiled feedback must formally acknowledge receipt.
+        No official may dismiss, destroy, or suppress compiled feedback.
+        Officials are not required to act on individual feedback items, but the compiled record is part of the permanent public account of their tenure.
+      * ##### Section 8 — Anonymity
+        All feedback is anonymous by default.
+        No identifying information shall be collected, stored, or transmitted alongside any feedback submission.
+        If a citizen includes identifying information within the text of open-ended feedback, that text shall be stored and published as part of the public record without modification.
  * ### Part III — Political Communication and Elections
-   * #### Article 5 — Political Communication and Elections
+   * #### Article 6 — Political Communication and Elections
      * ##### Section 1 — Individual Political Speech
        People have an absolute right to political speech.
      * ##### Section 2 — Organizational Political Speech
@@ -213,7 +268,58 @@
        A publicly funded trial will decide the matter using the preponderance of evidence standard.
        Both attorneys will be randomly selected from licensed attorneys within the jurisdiction.
        (Additional enforcement provisions to be completed.)
-   * #### Article 6 — Campaign Structure
+   * #### Article 7 — Full Ballot Eligibility
+     * ##### Section 1 — Purpose
+       Voting in elections is both a right and a responsibility.
+       A citizen who has paid no attention to an election can still accurately judge that the current state of affairs is not working for them — and for that judgment, the Revocation Vote and the complaint submission are available to everyone.
+       Selecting candidates to hold office requires a basic familiarity with what those candidates claim they will do.
+       This Article establishes the minimum standard for a citizen to receive a full ballot, and ensures that standard remains as low as it can reasonably be.
+     * ##### Section 2 — Platform Freeze
+       Forty-five days before any election, the stated positions of all candidates shall be frozen as they appear on the official election platform.
+       No changes to a candidate's stated positions may be made after the freeze date.
+       The frozen positions shall remain permanently on the public record.
+       They shall serve as a lasting reference against which citizens may measure whether an official honored their stated commitments, including in future Revocation Votes.
+     * ##### Section 3 — Citizen Question Panels
+       Upon the platform freeze, citizen question panels shall be assembled by lottery to produce the ballot eligibility questions for that election.
+       Panels shall be assembled at the highest level of governance represented in the election, up to the federal legislative district level:
+         * For elections that include federal offices, one panel shall be assembled per federal legislative district.
+         * For elections that include state offices but no federal offices, one panel shall be assembled per state legislative district.
+         * For elections that include only local offices such as municipal or county positions, one panel shall be assembled from the minimally eligible citizens within the affected district or districts.
+       Any person who has reached the minimum age of eligibility under this Constitution may be included in the lottery pool, regardless of whether they are eligible to cast a full ballot.
+       Every person who is eligible to vote in the election in question must be included as a lottery member.
+       The lottery must be designed so that every person in the pool has an equal probability of selection.
+       The pool from which any panel is drawn must contain more than one thousand people.
+       The panel's sole task is to produce questions about the candidates' stated positions.
+       Panel members shall produce no more than three questions per candidate running within their district.
+       All questions must be answerable directly from the frozen platform text alone.
+       Panel members may not reference outside sources, prior reporting, personal knowledge, or any information not contained in the frozen platform.
+       Questions must be simple and factual. A citizen who reads the relevant platform section for thirty minutes should be able to answer them correctly.
+       The completed question set shall be published and made freely available to the public immediately upon completion.
+     * ##### Section 4 — Ballot Eligibility Test
+       Before receiving a ballot, a citizen shall be offered a ballot eligibility test.
+       The test shall contain no more than five questions, randomly selected from the full set of questions covering candidates who would appear on that citizen's full ballot.
+       The test is separate from the ballot. The citizen completes the test first, and then receives the appropriate ballot based on the result.
+       A citizen who answers all questions correctly shall receive a full ballot.
+       A citizen who answers any question incorrectly shall receive a Revocation ballot and shall be eligible to submit a complaint as described in Article 5.
+       A citizen may decline to take the test and shall receive a Revocation ballot.
+       The test shall be available in any language in which the official election platform is available.
+     * ##### Section 5 — Ballot Assignment
+       The outcome of the eligibility test determines only the type of ballot a citizen receives.
+       It does not limit a citizen's right to participate in Revocation Votes or complaint submissions.
+       No record shall be kept of how a citizen answered individual test questions, only of the ballot type issued.
+     * ##### Section 6 — Amendments
+       The requirements of this Article may only be made easier or removed entirely.
+       The number of questions on the eligibility test may be lowered but not raised above five.
+       The panel composition rules, the number of panels, and the method of assigning panels to districts may be changed by amendment.
+       However, no amendment may alter the following minimum requirements for any panel lottery:
+         * The pool from which a panel is drawn must contain more than one thousand people.
+         * Every person eligible to vote in the election must be included as a lottery member.
+         * The lottery must give every member of the pool an equal probability of selection.
+       No amendment may make the eligibility test standard more difficult to meet in any way.
+     * ##### Section 7 — Effect of Removal
+       If this Article is ever repealed or removed from this Constitution by amendment, every citizen who has reached the minimum voting age shall automatically be entitled to a full ballot without any eligibility test.
+       No law, regulation, or administrative rule may impose a substitute eligibility requirement in its place.
+   * #### Article 8 — Campaign Structure
      * ##### Section 1 — Public Campaign Funding
        All election campaigns shall be publicly funded.
        Funding may increase only to match general inflation.
@@ -242,14 +348,14 @@
      * ##### Section 8 — Importance of Platform Oversight
        Voters must choose platform council members carefully, as the legitimacy of elections depends on their integrity.
  * ### Part IV — Limits on State Power
-   * #### Article 7 — Prohibition of Capital Punishment
+   * #### Article 9 — Prohibition of Capital Punishment
      * ##### Section 1 — Ban on Execution
        The government may not execute individuals.
        It may not assume an individual wishes to die, nor may it impose a death sentence.
        The most severe punishment permitted is life imprisonment.
      * ##### Section 2 — Purpose of the Ban
        This prohibition exists to prevent political misuse of criminal punishment, including the targeting of political opponents or innocent citizens.
-   * #### Article 8 — Government Use of Lethal Force
+   * #### Article 10 — Government Use of Lethal Force
      * ##### Section 1 — Limited Authorization
        Law enforcement may use deadly force only to prevent immediate loss of life or severe injury.
      * ##### Section 2 — Required Conditions
