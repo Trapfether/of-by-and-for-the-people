@@ -1,4 +1,4 @@
-# New Constitution
+# New Constitution (Proposal)
  * ## Table of Contents
    * [Preamble](#preamble)
    * [Part I — Principles of Government](#part-i--principles-of-government)
@@ -7,13 +7,13 @@
        * [Section 2 — Adaptation of Methods](#section-2--adaptation-of-methods)
        * [Section 3 — Permanence of Purpose](#section-3--permanence-of-purpose)
    * [Part II — Power of the People](#part-ii-—-power-of-the-people)
-     * [Article 3 — Apastia Votes](#article-3--apastia-votes)
+     * [Article 3 — Revocation Votes](#article-3--revocation-votes)
        * [Section 1 — Purpose](#section-1--purpose)
        * [Section 2 — Eligibility](#section-2--eligibility)
        * [Section 3 — Voting Age](#section-3--voting-age)
-       * [Section 4 — Offices Subject to Apastia Votes](#section-4--offices-subject-to-apastia-votes)
+       * [Section 4 — Offices Subject to Revocation Votes](#section-4--offices-subject-to-revocation-votes)
        * [Section 5 — Ballot Structure](#section-5--ballot-structure)
-       * [Section 6 — Apastia Vote Options](#section-6--apastia-vote-options)
+       * [Section 6 — Revocation Vote Options](#section-6--revocation-vote-options)
        * [Section 7 — Vote Counting](#section-7--vote-counting)
        * [Section 8 — Finality of Results](#section-8--finality-of-results)
        * [Section 9 — Federal Thresholds](#section-9--federal-thresholds)
@@ -84,36 +84,36 @@
        This Article cannot be changed or amended.
 
  * ### Part II — Power of the People
-   * #### Article 3 — Apastia Votes
+   * #### Article 3 — Revocation Votes
      * ##### Section 1 — Purpose
-       Apastia Votes exist so that citizens may remove or punish public officials who abuse their authority.
+       Revocation Votes exist so that citizens may remove or punish public officials who abuse their authority.
        Officials who are merely incompetent should face removal or temporary bans from office.
        Officials who take part in corruption or actions against the public interest should face stronger punishment, including prison.
      * ##### Section 2 — Eligibility
-       All citizens who reach the required age are automatically allowed to take part in Apastia Votes.
+       All citizens who reach the required age are automatically allowed to take part in Revocation Votes.
        There shall be no additional requirements for participation.
-     * ##### Section 3 — Apastia Voting Age
-       The voting age for Apastia Votes is 18 years old.
+     * ##### Section 3 — Revocation Voting Age
+       The voting age for Revocation Votes is 18 years old.
        This age may not be raised above 18 years old.
-     * ##### Section 4 — Offices Subject to Apastia Votes
-       Apastia Votes apply to:
+     * ##### Section 4 — Offices Subject to Revocation Votes
+       Revocation Votes apply to:
          * All elected public offices at the federal, state, and local levels
          * The highest federal and state court positions
          * The highest leadership positions of federal agencies
          * The commander of the military, or the current equivalent
-       If an office is normally filled by appointment and not by election, an Apastia Vote must still occur every four years, beginning two years after the ratification of this Constitution.
+       If an office is normally filled by appointment and not by election, an Revocation Vote must still occur every four years, beginning two years after the ratification of this Constitution.
      * ##### Section 5 — Ballot Structure
-       Whenever elections are held for public office, citizens will also receive materials for Apastia Votes.
+       Whenever elections are held for public office, citizens will also receive materials for Revocation Votes.
        Eligible voters will receive a combined ballot that includes:
          * votes for candidates
-         * Apastia Votes about current office holders
-         * Write-in Apastia Votes for past office holders
-       The Apastia Vote about an incumbent must appear near the vote for the next office holder.
-       All apastia votes for offices that are appointed rather than elected must appear in a group at the beginning of the ballot.
+         * Revocation Votes about current office holders
+         * Write-in Revocation Votes for past office holders
+       The Revocation Vote about an incumbent must appear near the vote for the next office holder.
+       All revocation votes for offices that are appointed rather than elected must appear in a group at the beginning of the ballot.
        The name of the current office holder must be clearly shown.
        Spaces must also be provided for voters to write in past office holders they wish to judge.
-       Citizens eligible only for Apastia Votes will receive a ballot containing only Apastia Votes, arranged in the same order as they appear on the combined ballot.
-     * ##### Section 6 — Apastia Vote Options
+       Citizens eligible only for Revocation Votes will receive a ballot containing only Revocation Votes, arranged in the same order as they appear on the combined ballot.
+     * ##### Section 6 — Revocation Vote Options
         * No Confidence — Remove from office
           The voter believes the candidate is not competent or capable of serving the people. There is no reason the believe the candidate did anything wrong, they are simply not up to the task.
         * No Confidence (5-year ban) — Remove and ban from office for 5 years
@@ -125,7 +125,7 @@
         * Treasonous or Corrupt — 15 years imprisonment and permanent ban from public office
           The voter believes the candidate has committed treason or actively engaged in corruption. This demonstrates a complete lack of integrity and abuse of the power the people lent to the government. The condidate should be removed permenantly and imprisoned for 15 years.
       * ##### Section 7 — Vote Counting
-        Apastia Votes are counted as a percentage of all eligible Apastia voters, not only those who voted.
+        Revocation Votes are counted as a percentage of all eligible Revocation voters, not only those who voted.
         If 1,000 people are eligible, the percentages are calculated using all 1,000 people.
         Selecting a higher option also counts as support for every lower option.
         Example:
@@ -133,7 +133,7 @@
         The highest option that reaches its required percentage becomes the final outcome.
         If no option reaches its required percentage, no action is taken.
       * ##### Section 8 — Finality of Results
-        The outcome of an Apastia Vote:
+        The outcome of an Revocation Vote:
           * cannot be changed
           * cannot be delayed
           * cannot be pardoned
@@ -172,7 +172,7 @@
         | 5      | 100%              |
       * ##### Section 13 — Amendments
         The percentages in this Article may only be lowered.
-        The age threshold for Apastia Votes may be changed, but not raised above 18 years old.
+        The age threshold for Revocation Votes may be changed, but not raised above 18 years old.
         No other changes to this Article may be made.
     * #### Article 4 — Civic Education and Responsibility
       * ##### Section 1 — Right to Civic Knowledge
@@ -198,7 +198,7 @@
      * ##### Section 2 — Organizational Political Speech
        Organizations may participate in political speech, subject to the limits described in this Article.
      * ##### Section 3 — Election Silence Period
-       During the 60 days before an election or Apastia Vote, organizations may not promote candidates or argue which candidate should win.
+       During the 60 days before an election or Revocation Vote, organizations may not promote candidates or argue which candidate should win.
        This period belongs exclusively to the people.
      * ##### Section 4 — Exceptions
        Exceptions exist for factual reporting concerning:
