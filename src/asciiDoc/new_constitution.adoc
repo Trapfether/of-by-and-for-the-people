@@ -1,0 +1,1301 @@
+﻿= New Constitution (Proposal)
+Andrew Trefethen
+:toc: left
+:toclevels: 3
+
+== How to Read Constitutional Notes
+Constitutional Notes provide context, guiding principles, and
+explanation for the provisions near them. They are included to explain
+why this Constitution is structured in particular ways and why
+particular provisions were adopted.
+
+== Preamble
+In a perfect world, governments would not exist. A government has the
+power to force people to act, and that power can lead to violence or
+harm. Because of this, government should exist only as a necessary
+compromise. Government exists to balance the freedom of each person with
+the freedom of everyone else. It acts as a last resort when people
+cannot solve problems themselves. It protects people from the worst
+actions of others. For this reason, the government must have authority
+above any one person. But it must always remain below the people as a
+whole. This Constitution is designed so that the government cannot free
+itself from serving the people. Its structure and rules keep it under
+the control of the public.
+
+[[part-i--principles-of-government]]
+== Part I — Principles of Government
+
+[[article-1--purpose-of-government]]
+=== Article 1 — Purpose of Government
+
+[[section-1--core-purpose]]
+==== Section 1 — Core Purpose
+The main purpose of government is to increase:
+
+**** Individual freedom
+**** Opportunity to improve one's life
+**** The happiness and well-being of all people
+
+[[section-2--adaptation-of-methods]]
+==== Section 2 — Adaptation of Methods
+The exact methods used to achieve these goals may be discussed and
+improved over time. New methods may be added to this document.
+
+[[section-3--permanence-of-purpose]]
+==== Section 3 — Permanence of Purpose
+The core purpose described in this Article cannot be changed or amended.
+
+[[article-2--freedom-and-security]]
+=== Article 2 — Freedom and Security
+
+[[section-1--balance-of-freedom]]
+==== Section 1 — Balance of Freedom
+Freedom must be balanced with the right of every person to be safe and
+secure. The freedom of one group cannot come at the cost of the safety
+of another group.
+
+[[section-2--prohibition-of-slavery]]
+==== Section 2 — Prohibition of Slavery
+All forms of slavery are forbidden.
+
+[[section-3--limits-on-exploitation]]
+==== Section 3 — Limits on Exploitation
+Exploitation of others must be strictly limited. The inability to
+exploit others is not considered harm. The inability to gain unlimited
+wealth without limits is not considered harm.
+
+[[section-4--permanence]]
+==== Section 4 — Permanence
+This Article cannot be changed or amended.
+
+[[part-ii--power-of-the-people]]
+== Part II — Power of the People
+
+[[article-3--revocation-votes]]
+=== Article 3 — Revocation Votes
+
+[[section-1--purpose]]
+==== Section 1 — Purpose
+Revocation Votes exist so that citizens may remove or punish public
+officials who abuse their authority. Officials who are merely
+incompetent should face removal or temporary bans from office. Officials
+who take part in corruption or actions against the public interest
+should face stronger punishment, including prison.
+
+[[section-2--eligibility]]
+==== Section 2 — Eligibility
+All citizens who reach the required age are automatically allowed to
+take part in Revocation Votes. There shall be no additional requirements
+for participation.
+
+[[section-3--revocation-voting-age]]
+==== Section 3 — Revocation Voting Age
+The voting age for Revocation Votes is 18 years old. This age may not be
+raised above 18 years old.
+
+[[section-4--offices-subject-to-revocation-votes]]
+==== Section 4 — Offices Subject to Revocation Votes
+Revocation Votes apply to:
+
+**** All elected public offices at the federal, state, and local levels
+**** The highest federal and state court positions
+**** The highest leadership positions of federal agencies
+**** The commander of the military, or the current equivalent If an
+office is normally filled by appointment and not by election, an
+Revocation Vote must still occur every four years, beginning two years
+after the ratification of this Constitution.
+
+[[section-5--ballot-structure]]
+==== Section 5 — Ballot Structure
+Whenever elections are held for public office, citizens will also
+receive materials for Revocation Votes. Eligible voters will receive a
+combined ballot that includes:
+
+**** votes for candidates
+**** Revocation Votes about current office holders
+**** Write-in Revocation Votes for past office holders The Revocation
+Vote about the current office holder must appear near the vote for the
+next office holder. All revocation votes for offices that are appointed
+rather than elected must appear in a group at the beginning of the
+ballot. The name of the current office holder must be clearly shown.
+Spaces must also be provided for voters to write in past office holders
+they wish to judge. Citizens eligible only for Revocation Votes will
+receive a ballot containing only Revocation Votes, arranged in the same
+order as they appear on the combined ballot.
+
+[[section-6--revocation-vote-options]]
+==== Section 6 — Revocation Vote Options
+
+**** No Confidence — Remove from office The voter believes the candidate
+is not competent or capable of serving the people. There is no reason
+the believe the candidate did anything wrong, they are simply not up to
+the task.
+**** No Confidence (5-year ban) — Remove and ban from office for 5 years
+The voter believes the candidate is incompetent to the point that
+seperating them from politics for a period of five years is necessary.
+**** Actively Detrimental — Remove and ban from office for 15 years The
+voter believes the candidate is incompetent and harmful to the public.
+The voter believes the candidate is not capable of serving the people.
+There is no evidence to suggest the candidate did anything wrong, they
+are simply not up to the task and should be kept far away from politics.
+**** Actively Hostile — Remove and ban from office indefinitely The
+voter believes the candidate is harmful to the public either through
+incompetence or direct harm. There is not enough evidence to be sure if
+the candidate did anything wrong, but enough doubt exists and harms are
+real enough to warrant keeping them far away from politics permanently.
+**** Treasonous or Corrupt — 15 years imprisonment and permanent ban
+from public office The voter believes the candidate has committed
+treason or actively engaged in corruption. This demonstrates a complete
+lack of integrity and abuse of the power the people lent to the
+government. The condidate should be removed permenantly and imprisoned
+for 15 years.
+
+[[section-7--vote-counting]]
+==== Section 7 — Vote Counting
+Revocation Votes are counted as a percentage of all eligible Revocation
+voters, not only those who voted. If 1,000 people are eligible, the
+percentages are calculated using all 1,000 people. Selecting a higher
+option also counts as support for every lower option. Example: A vote
+for 5 also counts as votes for 4, 3, 2, and 1. The highest option that
+reaches its required percentage becomes the final outcome. If no option
+reaches its required percentage, no action is taken.
+
+[[section-8--finality-of-results]]
+==== Section 8 — Finality of Results
+The outcome of an Revocation Vote:
+
+**** cannot be changed
+**** cannot be delayed
+**** cannot be pardoned Public officials hold the future of the people
+in their hands. Because of this, the people hold the future of those
+officials in their collective hands.
+
+[[section-9--federal-thresholds]]
+==== Section 9 — Federal Thresholds
+
+[cols=",",options="header",]
+|===
+|Option |Minimum Percentage
+|1 |51%
+|2 |55%
+|3 |65%
+|4 |70%
+|5 |85%
+|===
+
+[[section-10--state-and-local-thresholds-more-than-1000-voters]]
+==== Section 10 — State and Local Thresholds (More Than 1000 Voters)
+
+[cols=",",options="header",]
+|===
+|Option |Minimum Percentage
+|1 |55%
+|2 |60%
+|3 |68%
+|4 |72%
+|5 |89%
+|===
+
+[[section-11--state-and-local-thresholds-100999-voters]]
+==== Section 11 — State and Local Thresholds (100–999 Voters)
+
+[cols=",",options="header",]
+|===
+|Option |Minimum Percentage
+|1 |65%
+|2 |70%
+|3 |75%
+|4 |80%
+|5 |90%
+|===
+
+[[section-12--state-and-local-thresholds-less-than-100-voters]]
+==== Section 12 — State and Local Thresholds (Less Than 100 Voters)
+
+[cols=",",options="header",]
+|===
+|Option |Minimum Percentage
+|1 |70%
+|2 |72%
+|3 |75%
+|4 |85%
+|5 |100%
+|===
+
+[[section-13--amendments]]
+==== Section 13 — Amendment Limits
+The percentages in this Article may only be lowered. The age threshold
+for Revocation Votes may be changed, but not raised above 18 years old.
+No other changes to this Article may be made.
+
+[[article-4--civic-education-and-responsibility]]
+=== Article 4 — Civic Education and Responsibility
+
+[[section-1--right-to-civic-knowledge]]
+==== Section 1 — Right to Civic Knowledge
+People have both the right and the responsibility to understand how
+their government works.
+
+[[section-2--civic-education]]
+==== Section 2 — Civic Education
+Civics education will be freely available to all citizens older than
+four years of age. School-age children will receive civics education
+that teaches:
+
+**** their rights
+**** the plain reading of this Constitution
+**** their responsibilities under this document
+
+[[section-3--neutral-instruction]]
+==== Section 3 — Neutral Instruction
+Civics education must present factual information only. It must not
+instruct students on what opinions they should hold. Debates about
+political opinions should occur between individuals, not as mass
+instruction.
+
+[[section-4--civic-responsibility]]
+==== Section 4 — Civic Responsibility
+Citizens are responsible for staying informed about their government.
+They must monitor government actions and hold officials accountable for
+abuses of power. Without active participation, dishonest leaders can
+slowly trick the public into accepting policies that harm them.
+
+[[section-5--direct-citizen-participation]]
+==== Section 5 — Direct Citizen Participation
+Government must not rely only on elections, polling, lobbying
+organizations, or reports from officeholders to understand the condition
+and will of the people. This Constitution therefore directly involves
+ordinary citizens in defined parts of public government, often by
+lottery from the relevant population. These institutions exist to keep
+public officials grounded in reality, to expose government to what
+people are actually experiencing, and to reduce the distance between
+representation and lived public conditions.
+
+[[section-6--civic-duty-and-institutional-accommodation]]
+==== Section 6 — Civic Duty and Institutional Accommodation
+Direct citizen participation under this Constitution is a civic duty.
+Employers, schools, universities, licensing bodies, and all other public
+and private institutions shall provide the time, flexibility, leave,
+access, and other reasonable accommodations needed for a citizen to take
+part in such duties. Whether a citizen is able to participate in a given
+instance shall be judged by that citizen alone, except where this
+Constitution expressly provides otherwise.
+
+[[section-7--prohibition-on-interference]]
+==== Section 7 — Prohibition on Interference
+No institution may obstruct, punish, threaten, retaliate against, or
+otherwise interfere with a citizen for taking part in any civic duty
+established by this Constitution. Congress and the several states shall
+provide severe penalties for every such violation. No penalty for such
+interference may be set below the greater of five percent of the
+violating institution's global revenue or five percent of its global
+asset value for each violation.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+Earlier constitutional structures relied too heavily on infrequent
+elections, indirect representation, polling, and organized
+intermediaries to tell government what the public was experiencing.
+Those tools are not enough by themselves. A government that rarely hears
+directly from ordinary people can drift away from its purpose and begin
+responding more to political professionals, wealthy interests, and
+institutional filters than to the population itself. By regularly
+placing ordinary citizens into limited but meaningful public roles, this
+Constitution aims to keep government tied to reality and to the lives of
+the people it governs.
+****
+
+[[article-5--citizen-feedback]]
+=== Article 5 — Citizen Feedback
+
+[[section-1--purpose-1]]
+==== Section 1 — Purpose
+Citizens who participate in elections invest time and attention in their
+government. That investment earns them a voice beyond a simple vote.
+This Article creates a way for citizens to speak directly to every level
+of their government.
+
+[[section-2--complaint-submissions]]
+==== Section 2 — Complaint Submissions
+Any citizen eligible to participate in Revocation Votes may submit a
+complaint as part of the voting process. Complaints shall take the form
+of a structured poll covering common hardships and grievances. The
+complaint poll shall present fixed categories and options; it shall not
+include open-ended fields. The categories and options in the complaint
+poll shall be reviewed and updated periodically by a process established
+by law.
+
+[[section-3--open-ended-feedback]]
+==== Section 3 — Open-Ended Feedback
+Citizens who are fully eligible to vote in elections — not only
+Revocation Votes — may additionally submit open-ended feedback.
+Open-ended feedback may include:
+
+**** Comments on how the government is running or how good public
+services are
+**** Recommendations for legislation, policy, or reform
+**** Any other input the citizen believes is relevant to the public
+interest There is no required format for open-ended feedback.
+
+[[section-4--submission-process]]
+==== Section 4 — Submission Process
+Feedback shall be submitted through the same system used for voting. No
+extra steps may be added to the feedback process beyond checking that
+the citizen qualifies. Submitting feedback is optional and does not
+affect the validity of a citizen's vote.
+
+[[section-5--universal-distribution]]
+==== Section 5 — Universal Distribution
+All feedback submitted by a citizen shall be delivered to every level of
+government with jurisdiction over that citizen. This includes, at
+minimum: the relevant municipality, county, state, and federal bodies.
+No feedback is directed at any single official or body. Each level of
+government receives a complete copy of all feedback from the citizens
+within its jurisdiction. This ensures that every layer of government can
+observe how its citizens are living, what they are experiencing, and
+what they believe needs to change. The compiled feedback shall be
+delivered no later than thirty days after the close of the voting
+period.
+
+[[section-6--public-availability]]
+==== Section 6 — Public Availability
+All compiled feedback shall be made publicly available in a searchable
+and accessible format. Public records of compiled feedback shall be
+maintained for a minimum of twenty years.
+
+[[section-7--legislator-obligations]]
+==== Section 7 — Legislator Obligations
+Officials who receive compiled feedback must formally acknowledge
+receipt. No official may dismiss, destroy, or suppress compiled
+feedback. Officials are not required to act on individual feedback
+items, but the compiled record is part of the permanent public account
+of their tenure.
+
+[[section-8--anonymity]]
+==== Section 8 — Anonymity
+All feedback is anonymous by default. No identifying information shall
+be collected, stored, or transmitted alongside any feedback submission.
+If a citizen includes identifying information within the text of
+open-ended feedback, that text shall be stored and published as part of
+the public record without modification.
+
+[[part-iii--political-communication-and-elections]]
+== Part III — Political Communication and Elections
+
+[[article-6--political-speech]]
+=== Article 6 — Political Speech
+
+[[section-1--individual-political-speech]]
+==== Section 1 — Individual Political Speech
+People have an absolute right to political speech.
+
+[[section-2--organizational-political-speech]]
+==== Section 2 — Organizational Political Speech
+Organizations may participate in political speech, subject to the limits
+described in this Article.
+
+[[section-3--election-silence-period]]
+==== Section 3 — Election Silence Period
+During the 60 days before an election or Revocation Vote, organizations
+may not promote candidates or argue which candidate should win. This
+period belongs exclusively to the people.
+
+[[section-4--exceptions]]
+==== Section 4 — Exceptions
+Exceptions exist for factual reporting concerning:
+
+**** criminal convictions
+**** arrests
+**** verified misconduct
+**** factual explanations of the duties of a public office
+
+[[section-5--challenges]]
+==== Section 5 — Challenges
+Improper claims of exemption may be challenged by a public petition
+containing:
+
+**** 1,000 signatures, or
+**** signatures from 25% of eligible voters, whichever is lower. A
+publicly funded trial will decide the matter. To win, a side must show
+that its position is more likely true than not. Both attorneys will be
+randomly selected from licensed attorneys within the area where the case
+is being heard. (Additional enforcement provisions to be completed.)
+
+[[article-7--full-ballot-eligibility]]
+=== Article 7 — Full Ballot Eligibility
+
+[[section-1--purpose-2]]
+==== Section 1 — Purpose
+Voting in elections is both a right and a responsibility. A citizen who
+has paid no attention to an election can still accurately judge that the
+current state of affairs is not working for them — and for that
+judgment, the Revocation Vote and the complaint submission are available
+to everyone. Selecting candidates to hold office requires a basic
+familiarity with what those candidates claim they will do. This Article
+establishes the minimum standard for a citizen to receive a full ballot,
+and ensures that standard remains as low as it can reasonably be.
+
+[[section-2--platform-freeze]]
+==== Section 2 — Platform Freeze
+Forty-five days before any election, the stated positions of all
+candidates shall be frozen as they appear on the official election
+platform. No changes to a candidate's stated positions may be made after
+the freeze date. The frozen positions shall remain permanently on the
+public record. They serve as a permanent reference. Citizens can use
+them to check whether an official kept their promises, including in
+future Revocation Votes.
+
+[[section-3--citizen-question-panels]]
+==== Section 3 — Citizen Question Panels
+Once the platform is frozen, a group of regular citizens chosen by
+lottery will write the test questions for that election. These groups
+are called citizen question panels. One panel is put together for each
+district at the highest level of government in that election:
+
+**** For elections that include federal offices, one panel is put
+together per federal legislative district.
+**** For elections that include state offices but no federal offices,
+one panel is put together per state legislative district.
+**** For elections that include only local offices such as city or
+county positions, one panel is put together from eligible citizens in
+the affected area. Anyone who has reached the minimum age under this
+Constitution may be included in the lottery, even if they cannot cast a
+full ballot. Every person who is eligible to vote in the election must
+be included in the lottery. The lottery must give every person in the
+pool an equal chance of being chosen. The pool must contain more than
+one thousand people. The panel's only job is to write questions about
+what the candidates have said they will do. Panel members may write no
+more than three questions per candidate in their district. All questions
+must be answerable using only the frozen platform text. Panel members
+may not use news articles, personal knowledge, or anything outside the
+frozen platform to write their questions. Questions must be simple and
+factual. A citizen who reads the relevant platform section for thirty
+minutes should be able to answer them correctly. The completed question
+set shall be published and made freely available to the public
+immediately upon completion.
+
+[[section-4--ballot-eligibility-test]]
+==== Section 4 — Ballot Eligibility Test
+Before receiving a ballot, a citizen shall be offered a ballot
+eligibility test. The test shall contain no more than five questions,
+randomly selected from the full set of questions covering candidates who
+would appear on that citizen's full ballot. The test is separate from
+the ballot. The citizen completes the test first, and then receives the
+appropriate ballot based on the result. A citizen who answers all
+questions correctly shall receive a full ballot. A citizen who answers
+any question incorrectly shall receive a Revocation ballot and shall be
+eligible to submit a complaint as described in Article 5. A citizen may
+decline to take the test and shall receive a Revocation ballot. The test
+shall be available in any language in which the official election
+platform is available.
+
+[[section-5--ballot-assignment]]
+==== Section 5 — Ballot Assignment
+The outcome of the eligibility test determines only the type of ballot a
+citizen receives. It does not limit a citizen's right to participate in
+Revocation Votes or complaint submissions. No record shall be kept of
+how a citizen answered individual test questions, only of the ballot
+type issued.
+
+[[section-6--amendments]]
+==== Section 6 — Amendments
+The requirements of this Article may only be made easier or removed
+entirely. The number of questions on the eligibility test may be lowered
+but not raised above five. The panel composition rules, the number of
+panels, and the method of assigning panels to districts may be changed
+by amendment. However, no amendment may alter the following minimum
+requirements for any panel lottery:
+
+**** The pool from which a panel is drawn must contain more than one
+thousand people.
+**** Every person eligible to vote in the election must be included as a
+lottery member.
+**** The lottery must give every member of the pool an equal probability
+of selection. No amendment may make the eligibility test standard more
+difficult to meet in any way.
+
+[[section-7--effect-of-removal]]
+==== Section 7 — Effect of Removal
+If this Article is ever repealed or removed from this Constitution by
+amendment, every citizen who has reached the minimum voting age shall
+automatically be entitled to a full ballot without any eligibility test.
+No law, regulation, or administrative rule may impose a substitute
+eligibility requirement in its place.
+
+[[article-8--campaign-structure]]
+=== Article 8 — Campaign Structure
+
+[[section-1--public-campaign-funding]]
+==== Section 1 — Public Campaign Funding
+All election campaigns shall be publicly funded. Funding may increase
+only to match general inflation.
+
+[[section-2--official-election-platform]]
+==== Section 2 — Official Election Platform
+Every election shall have one official public platform where candidates
+publish:
+
+**** their policy plans
+**** their credentials
+
+[[section-3--campaign-advertising]]
+==== Section 3 — Campaign Advertising
+Campaigns may not buy or run advertisements. Campaigns may not receive
+outside funding, including funding from the candidate.
+
+[[section-4--platform-governance]]
+==== Section 4 — Platform Governance
+The election platform will be managed by a five-person council elected
+by voters. The platform’s responsibilities include:
+
+**** hosting campaign information
+**** verifying factual claims such as education and professional
+experience
+
+[[section-5--platform-neutrality]]
+==== Section 5 — Platform Neutrality
+The platform shall not contain opinion-based features such as:
+
+**** comment sections
+**** reactions
+**** ratings of campaigns
+
+[[section-6--public-questions]]
+==== Section 6 — Public Questions
+The platform may allow citizens to send questions or concerns directly
+to campaigns.
+
+[[section-7--public-engagement]]
+==== Section 7 — Public Engagement
+Campaign funds may be used for travel, lodging, and food for gatherings
+with constituents. These events should focus on question-and-answer
+sessions, not one-way political speeches.
+
+[[section-8--importance-of-platform-oversight]]
+==== Section 8 — Importance of Platform Oversight
+Voters must choose platform council members carefully, as the legitimacy
+of elections depends on their integrity.
+
+[[section-9--independent-electoral-mapping]]
+==== Section 9 — Independent Electoral Mapping
+All electoral maps shall be drawn only by an independent commission.
+Each such commission shall be composed of:
+
+**** two thirds citizens chosen by lottery from the population governed
+by the map
+**** one third electoral map specialists who are politically
+unaffiliated Before beginning their work, every member of the commission
+shall swear an oath to draw the map independently and to recognize the
+importance of that duty in preserving the voice of the people for future
+generations.
+
+[[part-iv--limits-on-state-power]]
+== Part IV — Limits on State Power
+
+[[article-9--prohibition-of-capital-punishment]]
+=== Article 9 — Prohibition of Capital Punishment
+
+[[section-1--ban-on-execution]]
+==== Section 1 — Ban on Execution
+The government may not execute individuals. It may not assume an
+individual wishes to die, nor may it impose a death sentence. The most
+severe punishment permitted is life imprisonment.
+
+[[section-2--purpose-of-the-ban]]
+==== Section 2 — Purpose of the Ban
+This prohibition exists to prevent political misuse of criminal
+punishment, including the targeting of political opponents or innocent
+citizens.
+
+[[article-10--government-use-of-lethal-force]]
+=== Article 10 — Government Use of Lethal Force
+
+[[section-1--limited-authorization]]
+==== Section 1 — Limited Authorization
+Law enforcement may use deadly force only to prevent immediate loss of
+life or severe injury.
+
+[[section-2--required-conditions]]
+==== Section 2 — Required Conditions
+Deadly force may be used only when:
+
+**** an objective threat exists
+**** the threat is immediately usable
+**** intent to use the threat is clear Fear alone is not sufficient. Law
+enforcement is less than a privliedge, it is a duty. Officers who cannot
+meet this standard are actively harmful to the public trust.
+
+[[section-3--professional-consequences]]
+==== Section 3 — Professional Consequences
+If after a deadly force incident, the officer is found to have used
+deadly force in violation of this Article, he or she must be permanently
+barred from law enforcement service, regardless of whether there is
+enough evidence to support a criminal prosecution.
+
+[[section-4--mandatory-investigations]]
+==== Section 4 — Mandatory Investigations
+Every death caused by government actors must be treated as a preventable
+tragedy. Each case must receive a full investigation, including
+institutional recommendations designed to prevent similar events in the
+future. The complete invetigative report must be made public with no
+redactions. The report must be made available to the public in a
+searchable and accessible format and maintained for a period of at least
+50 years.
+
+[[part-v--legislative-accountability-and-structure]]
+== Part V — Legislative Accountability and Structure
+
+[[article-11--transparency-of-legislative-votes]]
+=== Article 11 — Transparency of Legislative Votes
+The people have an undeniable right to know how their representatives
+vote. Representatives get their power from the people they serve. They
+have no right to hide how they use that power. If a vote must be cast,
+the representative must be willing to own it publicly.
+
+[[section-1--prohibition-on-secret-votes]]
+==== Section 1 — Prohibition on Secret Votes
+No law-making body at the federal or state level may hold a secret vote
+of any kind — on any bill, amendment, nomination, or other official
+action. Every vote must be recorded by name and made public within 24
+hours.
+
+[[section-2--requirement-to-justify-difficult-votes]]
+==== Section 2 — Requirement to Justify Difficult Votes
+If a representative votes for something they publicly say is painful,
+costly, or unpopular, they must submit a written explanation to the
+public record within 72 hours. The explanation must say, in plain
+language, why the representative believes the vote is good for the
+people they serve. The reasoning behind hard choices belongs to the
+people. A representative who cannot explain a vote in public should
+think twice before casting it.
+
+[[section-3--no-way-around-this-rule]]
+==== Section 3 — No Way Around This Rule
+No internal rule, tradition, or agreement within a legislative body may
+be used to hide how any member voted. The people's right to know how
+their representative voted on any specific matter cannot be taken away,
+paused, or worked around.
+
+[[section-4--public-record]]
+==== Section 4 — Public Record
+All legislative votes shall be gathered into a permanent, searchable
+public record kept by a body independent of the legislature. Records
+must be kept for at least 50 years and must be free to access for any
+citizen.
+
+[[section-5--connection-to-civic-education]]
+==== Section 5 — Connection to Civic Education
+Open voting records are also a tool for civic education. When citizens
+can see what their representatives are voting for and read their stated
+reasons, they are better able to understand difficult policy choices.
+When representatives must explain hard votes to an informed public, they
+are doing exactly what democracy asks of them: walking people through
+tough tradeoffs and making the case for their decisions. This habit,
+practiced openly over time, helps build the kind of informed public that
+good government depends on.
+
+[[article-12--independence-between-chambers-of-the-legislature]]
+=== Article 12 — Independence Between Chambers of the Legislature
+
+[[section-1--why-multiple-chambers-exist]]
+==== Section 1 — Why Multiple Chambers Exist
+Some legislatures in this country have more than one chamber — for
+example, the House and the Senate at the federal level. This is called a
+multichamber legislature. The point of having multiple chambers is to
+slow things down. A bill that passes one chamber must survive real,
+independent review by one or more separate groups of people who were
+elected differently and answer to different sets of voters. That check
+disappears when chambers quietly agree on outcomes in advance, skip the
+debate, or coordinate outside of public view. This Article protects the
+independent character of each chamber by prohibiting the forms of
+backroom coordination that gut a multichamber legislature from the
+inside while leaving it standing on paper.
+
+[[section-2--prohibition-on-secret-coordination-between-chambers]]
+==== Section 2 — Prohibition on Secret Coordination Between Chambers
+Members of one chamber may not coordinate with members of any other
+chamber about pending or upcoming legislation except through the
+official channels listed in Section 4 of this Article. This prohibition
+applies to all levels of government with a multichamber legislature,
+including federal and state bodies.
+
+[[section-3--what-is-prohibited]]
+==== Section 3 — What Is Prohibited
+The following are expressly forbidden:
+
+**** Setting up a bill for fast, pre-agreed approval in multiple
+chambers before it has been formally introduced in any of them
+**** Any communication between members of different chambers, outside of
+public or official channels, intended to lock in the outcome of a vote
+before it happens
+**** Any agreement between members of different chambers, reached before
+formal debate, about how they will vote on specific legislation
+**** Any arrangement — written or unwritten — in which one chamber's
+vote is made to depend on promises made by another chamber outside of
+official proceedings
+
+[[section-4--official-channels]]
+==== Section 4 — Official Channels
+Members of different chambers may only communicate about legislation
+through the following official channels, and all proceedings of those
+channels must be fully and publicly recorded:
+
+**** Formal conference committees (joint groups formed to resolve
+differences between chambers)
+**** Official written correspondence entered into the public legislative
+record
+**** Joint sessions held under the formal rules of all participating
+chambers No other form of communication between members of different
+chambers may be used to coordinate legislative action.
+
+[[section-5--political-parties-and-outside-organizations]]
+==== Section 5 — Political Parties and Outside Organizations
+Belonging to the same political party, legislative caucus (a group of
+legislators who act together), or outside organization does not create
+any exception to this Article. No agreement made outside of government —
+including party plans, group resolutions, or commitments to outside
+organizations — may bind any member's vote or take the place of open
+debate and deliberation.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+Representatives are expected to deliberate on legislation for the people
+they serve rather than merely carry out plans made in private by groups
+operating outside public view. Political parties may have positions, but
+they are not meant to replace open debate.
+****
+
+[[section-6--enforcement]]
+==== Section 6 — Enforcement
+Violations of this Article are a breach of legislative duty. Any member
+found, based on evidence that makes it more likely than not, to have
+engaged in prohibited coordination shall:
+
+**** Receive a public formal reprimand entered into the permanent
+legislative record
+**** Be removed from all committee assignments for the rest of their
+term Evidence of prohibited coordination shall be submitted to the
+appropriate oversight body and entered into the permanent public record.
+Citizens may file a complaint using the petition process established in
+Article 5 of this Constitution. Nothing in this Article prevents
+criminal prosecution where the law has been broken.
+
+[[section-7--state-legislatures]]
+==== Section 7 — State Legislatures
+This Article applies equally to all state legislatures that have more
+than one chamber. Legislatures with only one chamber are exempt from
+this Article.
+
+[[article-13--federal-government-basic-structure]]
+=== Article 13 — Federal Government: Basic Structure
+
+[[section-1--federal-structure]]
+==== Section 1 — Federal Structure
+The federal government shall be a constitutional republic composed of
+three branches: a legislative branch, an executive branch, and a
+judicial branch. These branches are established by this Constitution and
+shall operate only within the powers and limits set out in this
+document. No inference shall be drawn from this Article to preserve any
+specific election procedure, term rule, or office qualification that
+this Constitution later changes.
+
+[[section-2--legislative-branch]]
+==== Section 2 — Legislative Branch
+The legislative power of the United States shall be vested in a Congress
+composed of two chambers: a House of Representatives and a Senate. The
+House of Representatives shall be the lower chamber of Congress and
+shall represent the people in the making of federal law. The Senate
+shall be the upper chamber of Congress and shall participate equally in
+the making of federal law, subject to the changes expressly stated in
+Article 14 of this Constitution.
+
+[[section-3--executive-branch]]
+==== Section 3 — Executive Branch
+The executive power of the United States shall be vested in a President
+of the United States. The office of Vice President shall exist. The
+executive branch shall carry out and administer federal law, subject to
+any express changes made elsewhere in this Constitution.
+
+[[section-4--federal-agencies]]
+==== Section 4 — Federal Agencies
+Congress may create, organize, combine, divide, modify, and abolish
+federal agencies by law. No federal agency may exercise public power
+unless its existence, purpose, and authority are established by law.
+Every law creating or substantially revising a federal agency shall
+define that agency's public purpose, scope of authority, duties, methods
+of oversight, and relationship to the President and to Congress.
+Congress may not impose duties on a federal agency without providing
+funding sufficient to carry out those duties in a reasonable manner.
+Congress may not render a legal mandate effectively inoperative by
+reducing, withholding, or failing reasonably to adjust the funding
+needed to carry out that mandate. If Congress wishes to reduce, suspend,
+transfer, or end an agency function or legal duty, it shall do so by
+law. No agency created or empowered by law may be nullified in practice
+through appropriations manipulation alone. Congress may require periodic
+review, reauthorization, reporting, or sunset of any federal agency or
+agency power. No agency may lawfully claim powers beyond those granted
+to it by this Constitution and the laws made under it.
+
+[[section-5--political-independence-in-administration]]
+==== Section 5 — Political Independence in Administration
+Federal agencies and their officers shall carry out the law faithfully
+and impartially. No officer of the United States may direct or pressure
+a federal agency to use its legal powers for partisan advantage,
+personal advantage, retaliation, favoritism, or punishment outside
+lawful process. No agency decision concerning enforcement, licensing,
+benefits, records, investigations, adjudications, or other official
+action may be altered or delayed for the purpose of helping or harming
+any political party, candidate, officeholder, donor, faction, or
+viewpoint. Congress shall provide by law for transparency, records
+preservation, review procedures, and other safeguards sufficient to
+detect and deter political abuse of agency power.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+Federal agencies are instruments for carrying out public duties created
+by this Constitution and by law. They are not meant to become private
+tools of whichever political faction temporarily controls the elected
+branches. Political leadership may set lawful policy within the
+boundaries established by this Constitution and by statute, but the
+day-to-day administration of law must remain tied to public duty rather
+than partisan interest.
+****
+
+[[section-6--judicial-branch]]
+==== Section 6 — Judicial Branch
+The judicial power of the United States shall be vested in one Supreme
+Court and in such inferior courts as are established by law. The federal
+judiciary shall decide cases arising under federal law and this
+Constitution, subject to any express changes made elsewhere in this
+Constitution.
+
+[[article-14--federal-senate-seats-based-on-population]]
+=== Article 14 — Federal Senate: Seats Based on Population
+Senate seats shall be divided up based on how many people live in each
+state.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+Population-based division of Senate seats is intended to reflect the
+principle that every citizen's voice in government should carry equal
+weight no matter where that citizen lives.
+****
+
+[[section-1--seats-divided-by-population]]
+==== Section 1 — Seats Divided by Population
+Senate seats shall be divided among the states based on each state's
+share of the total national population, as measured by the most recent
+federal census. The Senate shall be rebalanced after each census on the
+same schedule used for the House of Representatives.
+
+[[section-2--minimum-representation]]
+==== Section 2 — Minimum Representation
+No state shall have fewer than two Senators.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+The two-Senator minimum reflects the prior constitutional understanding
+that no state may lose its voice in the Senate without its consent. Two
+Senators per state is the floor. Population determines how many Senators
+a state receives above that floor.
+****
+
+[[section-3--senate-size]]
+==== Section 3 — Senate Size
+The total number of Senate seats shall remain at one hundred until the
+first rebalancing under this Article takes effect. After that, the total
+number of seats may be changed by law, as long as no state falls below
+two senators and no change takes effect in the middle of a census cycle.
+
+[[section-4--transition]]
+==== Section 4 — Transition
+The shift to population-based Senate seats shall happen gradually, so
+that representation is not disrupted. Senators already serving when this
+Constitution takes effect shall complete their full terms. The new rules
+apply to each Senate seat the next time it comes up for election. No
+Senator is removed from office early simply because of this Article. The
+convention shall set the specific schedule and seat groupings as part of
+the ratified document.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+The full shift is expected to be complete within twelve years of
+ratification, once every group of Senate seats has gone through at least
+one election under the new rules.
+****
+
+[[article-15--federal-lawmaking-process]]
+=== Article 15 — Federal Lawmaking Process
+Federal law shall be made through a public process that allows proposal,
+debate, review, approval, veto, override, and constitutional challenge.
+
+[[section-1--introduction-of-bills]]
+==== Section 1 — Introduction of Bills
+A proposed federal law shall begin as a bill. Every bill shall have a
+title that substantially describes its contents. Every bill shall be
+divided into three parts:
+
+**** Description and Justification
+**** Measures of Success
+**** Substantive Contents
+Only the Substantive Contents of a bill shall create operative legal
+rules after enactment. The Description and Justification and Measures of
+Success sections shall serve as transparency tools for the public and
+shall not themselves create binding legal obligations unless their terms
+are expressly incorporated into the Substantive Contents. The
+Description and Justification section shall explain in plain language
+the purpose of the bill and why its sponsors believe it is necessary.
+The Measures of Success section shall state the metrics by which the
+success or failure of the legislative act is to be judged. A bill may be
+introduced in either chamber of Congress, except that bills for raising
+revenue shall begin in the House of Representatives.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+A bill title should describe the bill honestly, but no separate
+enforcement mechanism is created for title accuracy because such a
+mechanism may create more opportunity for gamesmanship than it prevents.
+Oversight of deceptive titles is expected to remain with the public, the
+press, and other institutions of public accountability. The Description
+and Justification section exists to provide enough information for the
+public to understand and evaluate the Substantive Contents. Measures of
+Success are to be stated before passage so that supporters and opponents
+may not later invent new measures of success or shift to more favorable
+standards after the law has taken effect. If Congress cannot define the
+measures by which a bill's success should be judged, that failure may
+suggest that Congress does not yet understand the legislation well
+enough to enact it. If a law later fails by its own stated measures,
+that failure may serve as grounds for legislative review and as evidence
+for the public in judging the competence of their representatives.
+****
+
+[[section-2--legislative-consideration]]
+==== Section 2 — Legislative Consideration
+Each chamber may debate bills, hold hearings, gather testimony, request
+records, and propose amendments according to law and its published
+rules. All final votes on bills shall be public and recorded by name as
+required elsewhere in this Constitution.
+
+[[section-3--passage-by-both-chambers]]
+==== Section 3 — Passage by Both Chambers
+No bill shall become law unless it is passed by both chambers of
+Congress in the same form. If the two chambers pass different versions
+of a bill, they may use official public procedures to produce a single
+agreed text. Any final agreed text must be voted on again by both
+chambers before it is sent to the President.
+
+[[section-4--presentment-to-the-president]]
+==== Section 4 — Presentment to the President
+Every bill passed by both chambers shall be presented to the President
+before it may become law. The President may sign the bill or return it
+with written objections.
+
+[[section-5--veto-and-reconsideration]]
+==== Section 5 — Veto and Reconsideration
+If the President returns a bill with objections, the bill shall return
+to the chamber in which it last stood for reconsideration under rules
+established by law. The objections shall be entered into the public
+record. If two thirds of each chamber vote to pass the bill despite the
+objections, the bill shall become law.
+
+[[section-6--bills-not-signed]]
+==== Section 6 — Bills Not Signed
+If the President receives a bill and does not sign or return it within
+ten days, excluding Sundays, the bill shall become law as if signed,
+unless Congress by its adjournment prevents the bill from being
+returned. If Congress prevents return of the bill during that period,
+the bill shall not become law.
+
+[[section-7--tools-of-congress]]
+==== Section 7 — Tools of Congress
+Each chamber of Congress may create committees, hold public hearings,
+issue reports, compel testimony and the production of records by lawful
+process, investigate matters within its authority, and propose
+amendments to legislation before final passage. These powers exist to
+support informed lawmaking and accountability, not to replace the
+constitutional limits placed on government.
+
+[[section-8--tools-of-the-president]]
+==== Section 8 — Tools of the President
+The President may recommend laws, approve bills by signature, reject
+bills by veto with written objections, direct the executive branch in
+the faithful administration of federal law, and require written opinions
+from principal officers of the executive departments on matters within
+their duties. These powers may be used only within the limits of this
+Constitution and the laws made under it.
+
+[[section-9--citizen-ballot-initiatives-for-federal-legislation]]
+==== Section 9 — Citizen Ballot Initiatives for Federal Legislation
+Citizens of voting age may propose federal legislation by ballot
+initiative. If a number of valid signatures set by law is collected, the
+proposed legislation must be presented to both chambers of Congress for
+a public vote. Any vote against such legislation must be justified in
+writing and added to the public record within 72 hours.
+
+[[section-10--derivative-bills-from-citizen-initiatives]]
+==== Section 10 — Derivative Bills from Citizen Initiatives
+If Congress concludes that a citizen-proposed bill cannot pass because
+it contains constitutional defects, legal defects, or provisions too
+unclear to be carried out, either chamber may take up the proposal as
+the basis for a separate bill. Any such derivative bill shall proceed
+through the ordinary legislative process. The original public vote and
+its result shall remain permanent and part of the public record. If a
+derivative bill becomes law, the text of the original proposal and the
+final enacted text shall be preserved side by side in the permanent
+public record for public review.
+
+[[article-16--citizen-advisory-panels]]
+=== Article 16 — Citizen Advisory Panels
+Citizen advisory panels exist so that all branches of the federal
+government may directly consult a random group of citizens when public
+opinion is uncertain or significantly in doubt.
+
+[[section-1--authority-to-convene-panels]]
+==== Section 1 — Authority to Convene Panels
+The legislature, the President, and the federal courts may each convene
+a citizen advisory panel as part of their ordinary duties. These panels
+may be used to seek input, hear reactions, test public understanding, or
+receive suggestions on matters of public concern.
+
+[[section-2--eligibility-and-selection]]
+==== Section 2 — Eligibility and Selection
+Every citizen who has reached voting age is eligible for selection.
+There shall be no exceptions to eligibility. Panel members shall be
+chosen by lottery from the full population of citizens of voting age.
+The number of citizens serving on a panel shall be set by law.
+
+[[section-3--right-to-refuse]]
+==== Section 3 — Right to Refuse
+A selected citizen may refuse service without giving any reason. If a
+selected citizen refuses service, another citizen shall be chosen by
+lottery to take that place.
+
+[[section-4--compensation-and-employment-protection]]
+==== Section 4 — Compensation and Employment Protection
+For each day of service, a citizen serving on a panel shall be paid
+twice that citizen's daily wages or 200 dollars per day, whichever is
+greater. It shall be unlawful for any employer or business to interfere
+with a citizen's commencement or completion of this service.
+
+[[section-5--access-and-accommodations]]
+==== Section 5 — Access and Accommodations
+Transportation and lodging shall be provided when necessary. Electronic
+participation shall be permitted. If a selected citizen does not have
+the means to participate digitally, the government shall provide the
+necessary equipment, connectivity, and technical assistance to make
+participation possible. Appropriate government information technology
+staff may perform this duty directly, or contractors may be used where
+needed.
+
+[[section-6--nature-of-panel-input]]
+==== Section 6 — Nature of Panel Input
+A citizen advisory panel is advisory only. No panel may directly make
+law, issue orders, decide cases, or exercise the powers of any branch of
+government.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+These panels are meant to help government better understand the public
+by hearing from a random and broadly representative group of citizens.
+Their use may be especially valuable when substantial time has passed
+since the last election and public sentiment may have changed.
+****
+
+[[article-17--judicial-review-and-constitutional-review]]
+=== Article 17 — Judicial Review and Constitutional Review
+The judicial branch has the duty to compare laws and government action
+against this Constitution and to refuse effect to what violates it.
+
+[[section-1--constitutional-priority]]
+==== Section 1 — Constitutional Priority
+No part of this Constitution shall be interpreted in a way that defeats
+the purpose stated in Article 1. The purpose of government established
+in Article 1 shall guide the reading of every other Article, Section,
+and clause of this document.
+
+[[section-2--judicial-review]]
+==== Section 2 — Judicial Review
+The federal courts may determine whether legislation, executive action,
+or other exercises of public power are compatible with this
+Constitution. If a court determines that a law or any part of a law is
+unconstitutional, the court may declare that law without effect. If a
+court determines that executive action is unconstitutional, the court
+may enjoin the executive from performing that action. If a court
+determines that another use of public power not expressly enumerated
+here is unconstitutional, the court may declare that use of that power
+without effect. All uses of this declaration power shall serve to return
+things to the status they were in before the unconstitutional action.
+
+[[section-3--no-judicial-rewriting]]
+==== Section 3 — No Judicial Rewriting
+A court may not rewrite legislation in order to save it. A court may not
+add language, remove language, narrow language by inventing a substitute
+rule, or prescribe a corrected version of a law in order to make that
+law constitutional. When legislation fails constitutional review, it is
+the duty of the legislature, not the judiciary, to decide whether to
+revise it or abandon it.
+
+[[section-4--required-constitutional-analysis]]
+==== Section 4 — Required Constitutional Analysis
+When a court holds legislation unconstitutional, it shall explain in
+detail why the legislation fails under this Constitution. The court
+shall identify the constitutional conflict and the reasoning that leads
+to its decision. The court shall not prescribe fixes, draft substitute
+text, or suggest specific edits.
+
+[[section-5--pre-enactment-constitutional-review]]
+==== Section 5 — Pre-Enactment Constitutional Review
+After both chambers of Congress have passed a bill in identical form,
+but before the bill is presented to the President, Congress may request
+constitutional review by a federal court as provided by law. The
+reviewing court shall examine the bill in the same manner it would
+examine legislation challenged in a case. If the court finds
+constitutional defects, it shall explain those defects and why they
+fail, but shall not suggest fixes or prescribe specific adjustments. If
+the bill fails this review, it shall return to Congress.
+
+[[section-6--effect-of-pre-enactment-review]]
+==== Section 6 — Effect of Pre-Enactment Review
+A constitutional ruling issued through pre-enactment review shall be
+binding in future litigation to the same extent as a constitutional
+ruling issued in a case. A law that survives pre-enactment review may
+still later be found unconstitutional if new facts, new applications, or
+serious defects in the earlier review show that the law does not comply
+with this Constitution.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+This power is intended to promote legislative stability without
+weakening constitutional limits.
+****
+
+[[part-vi--emergency-powers-and-disaster-preparedness]]
+== Part VI — Emergency Powers and Disaster Preparedness
+
+[[article-18--disaster-preparedness]]
+=== Article 18 — Disaster Preparedness
+
+[[section-1--duty-to-prepare]]
+==== Section 1 — Duty to Prepare
+The government has a continuing duty to prepare for foreseeable
+disasters, disruptions, and emergencies. Preparation is not optional,
+and failure to prepare for known risks is a breach of public duty.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+This duty is based on the government's obligation to protect the
+conditions required for people to live good and dignified lives.
+****
+
+[[section-2--periodic-review]]
+==== Section 2 — Periodic Review
+Public institutions shall regularly review the systems on which the
+population depends in order to identify preventable weaknesses, single
+points of failure, and foreseeable emergency conditions. These reviews
+shall include the adequacy of existing safeguards, response procedures,
+recovery plans, and public communication systems. Findings shall be used
+to reduce avoidable harm before a crisis occurs.
+
+[[section-3--systemic-redundancy]]
+==== Section 3 — Systemic Redundancy
+The government shall maintain and encourage reasonable redundancy in
+critical systems, including infrastructure, supply chains, essential
+public services, and other systems whose failure would predictably cause
+cascading harm. Public policy shall favor resilience where fragility
+would allow one emergency to trigger many others. Efficiency alone is
+not a sufficient reason to leave essential systems without backup
+capacity.
+
+[[section-4--planning-obligations]]
+==== Section 4 — Planning Obligations
+Emergency planning shall prioritize continuity of civilian life under
+normal civil authority. Plans shall be designed to reduce the need for
+extraordinary powers and to keep any emergency response as narrow,
+temporary, and accountable as possible. No emergency plan may be written
+or used as a pretext to permanently expand state power.
+
+[[article-19--emergency-powers-and-martial-law]]
+=== Article 19 — Emergency Powers and Martial Law
+
+[[section-1--narrow-authorization]]
+==== Section 1 — Narrow Authorization
+Martial law may be invoked only when ordinary civilian institutions are
+genuinely unable to maintain public order against an active external war
+requiring broad military coordination, or against sustained and
+organized armed conflict so severe that roaming armed groups are openly
+waging war beyond the realistic control of ordinary law enforcement.
+Natural disasters, infrastructure failures, public unrest, strikes,
+protests, civil disobedience, political resistance, or isolated acts of
+violence are not by themselves sufficient grounds for martial law. The
+burden shall remain on the government to show that no lesser civil
+response is adequate.
+
+[[section-2--time-limits-and-reauthorization]]
+==== Section 2 — Time Limits and Reauthorization
+Any declaration of martial law shall expire after 60 days unless
+reauthorized under the same standard of necessity. Every reauthorization
+must be based on a current showing of continued threat and may not rely
+only on the original declaration. Reauthorization shall be treated as a
+new exercise of extraordinary power and must remain subject to all
+constitutional limits.
+
+[[section-3--rights-retained-during-martial-law]]
+==== Section 3 — Rights Retained During Martial Law
+Martial law does not suspend the sovereignty of the people. The ordinary
+procedures for election qualification, election administration, citizen
+oversight of elections, Revocation Votes, and constitutional
+accountability shall remain in force. No declaration of martial law may
+cancel, postpone, or nullify those procedures except where physical
+impossibility makes temporary local adjustment unavoidable, and any such
+adjustment must be the narrowest possible.
+
+[[section-4--impromptu-revocation-during-martial-law]]
+==== Section 4 — Impromptu Revocation During Martial Law
+The people shall retain the power to initiate an impromptu Revocation
+Vote against any official who declares, administers, or seeks to
+continue martial law. Access to that process shall not be suspended,
+burdened, or delayed on the ground that martial law is in effect. If the
+population believes martial law has been declared without sufficient
+justification, the people may use the revocation power to remove the
+officials responsible.
+
+[[section-5--insurrection-is-not-pretext]]
+==== Section 5 — Insurrection Is Not Pretext
+The government may not invoke martial law merely by labeling public
+resistance an insurrection. The word insurrection has no independent
+constitutional force under this document and shall not serve as
+sufficient pretext for extraordinary military rule. Small uprisings,
+regional disorder, or armed groups of limited scale shall be addressed
+through ordinary law enforcement and other civil means wherever those
+means remain realistically available.
+
+[[section-6--power-belongs-to-the-people]]
+==== Section 6 — Power Belongs to the People
+The government derives its authority from the people and has no
+independent right to preserve itself against the people as a class. If
+public opposition becomes so broad that the government would
+characterize it as a general rebellion requiring military suppression,
+that condition shall be understood as evidence of profound governmental
+failure, not as automatic justification for martial law. No officeholder
+may claim legitimacy from the people while denying the people all
+practical means to withdraw that legitimacy.

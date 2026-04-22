@@ -1,18 +1,14 @@
 ---
-import {Content as NewConsitution} from '../md/new_consitution.md';
-import Layout from '../layouts/Layout.astro';
+import NewConstitutionTOC from '../asciiDoc/new_constitution.toc.astro';
+import NewConstitutionContent from '../asciiDoc/new_constitution.astro';
+import Layout from '../layouts/documentWithNav.astro';
 ---
 
 <Layout>
-  <main class="flex flex-col items-center bg-slate-100 dark:bg-slate-950">
-    <div class="flex justify-center w-full">
-      <a href="/transition" class="text-blue-600 hover:underline">Transition Plan</a>
-    </div>
-    <article class="max-w-3xl prose dark:prose-invert
-  prose-h1:font-bold prose-h1:text-xl
-  prose-a:text-blue-600 prose-p:text-justify prose-img:rounded-xl
-  prose-headings:underline p-4">
-      <NewConsitution />
-    </article>
-  </main>
+  <Fragment slot="nav">
+    <NewConstitutionTOC />
+  </Fragment>
+  <Fragment slot="article">
+    <NewConstitutionContent />
+  </Fragment>
 </Layout>

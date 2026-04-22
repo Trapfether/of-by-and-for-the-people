@@ -1,18 +1,14 @@
 ---
-import {Content as TransitionPlan} from '../md/transition_plan.md';
-import Layout from '../layouts/Layout.astro';
+import TransitionPlanTOC from '../asciiDoc/transition_plan.toc.astro';
+import TransitionPlanContent from '../asciiDoc/transition_plan.astro';
+import Layout from '../layouts/documentWithNav.astro';
 ---
 
 <Layout>
-  <main class="flex flex-col items-center dark:bg-slate-950 p-4 bg-slate-100">
-    <div class="flex justify-center w-full">
-      <a href="/" class="text-blue-600 hover:underline">Proposed Constitution</a>
-    </div>
-    <article class="max-w-3xl prose dark:prose-invert
-  prose-h1:font-bold prose-h1:text-xl
-  prose-a:text-blue-600 prose-p:text-justify prose-img:rounded-xl
-  prose-headings:underline">
-      <TransitionPlan />
-    </article>
-  </main>
+  <Fragment slot="nav">
+    <TransitionPlanTOC />
+  </Fragment>
+  <Fragment slot="article">
+    <TransitionPlanContent />
+  </Fragment>
 </Layout>

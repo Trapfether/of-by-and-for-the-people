@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout>
+  <main class="flex bg-slate-100 dark:bg-slate-950 flex-col md:flex-row w-full h-full contain-layout">
+    <!-- Navigation -->
+    <nav class="w-full md:w-80 bg-slate-200 dark:bg-slate-800">
+      <!-- this div makes the nav scrollable no matter the height of the content -->
+      <div class="h-full overflow-y-auto overflow-x-hidden p-4 prose-sm">
+        <slot name="nav" />
+      </div>
+    </nav>
+    <!-- Content -->
+    <article class="md:grow w-full md:w-64 contain-layout flex justify-center">
+      <!-- this div makes the article never wider than the comfortable maximum width -->
+      <div class="max-w-[80ch] h-full overflow-y-auto overflow-x-hidden p-4">
+        <slot name="article" />
+      </div>
+    </article>
+  </main>
+</Layout>
