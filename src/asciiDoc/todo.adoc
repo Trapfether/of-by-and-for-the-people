@@ -1,0 +1,238 @@
+= Constitutional Draft TODO
+Andrew Trefethen
+:toc: left
+:toclevels: 3
+
+== Purpose
+This document tracks major constitutional concepts and operating-system
+details that should be considered for future drafting. It is based on a
+comparison between the current proposal and the Constitution of the
+United States.
+
+The checklist is not a command to copy the existing Constitution. Some
+items may be rejected, replaced, or intentionally redesigned. The goal
+is to make sure each area is consciously addressed rather than missed by
+accident.
+
+== Checklist
+
+=== Congressional Structure
+
+* [ ] Define House membership, terms, districts, and apportionment.
+* [ ] Define rules for House vacancies.
+* [ ] Define Senate terms, classes, qualifications, and vacancies.
+* [ ] Define quorum rules for each chamber.
+* [ ] Define how each chamber chooses officers.
+* [ ] Define internal discipline and expulsion procedures.
+* [ ] Define compensation rules for members of Congress.
+* [ ] Decide whether legislative debate receives immunity from ordinary
+legal retaliation.
++
+The current draft creates Congress, the House, and the Senate, but it
+does not yet fully define how those bodies are populated, how long
+members serve, how vacancies are handled, or how each chamber conducts
+basic internal business.
+
+=== Enumerated Legislative Powers
+
+* [ ] Borrowing money and managing public debt.
+* [ ] Regulating interstate commerce.
+* [ ] Regulating foreign commerce.
+* [ ] Naturalization and immigration.
+* [ ] Bankruptcy.
+* [ ] Currency, coinage, and counterfeiting.
+* [ ] Weights and measures.
+* [ ] Postal systems.
+* [ ] Patents, copyrights, and other limited intellectual-property
+systems.
+* [ ] Creation of federal courts below the Supreme Court.
+* [ ] Piracy and offenses against international law.
+* [ ] Declaration of war.
+* [ ] Raising and supporting military forces.
+* [ ] Militia, reserve, or national guard rules.
+* [ ] Governing federal property, territories, and the capital district.
+* [ ] General implementation authority similar to a "necessary and
+proper" clause.
++
+A constitution should make clear which powers are granted to the
+legislature. Without an enumerated-powers article, later courts and
+officials may have too little guidance about what Congress can and
+cannot do.
+
+=== Executive Structure and Powers
+
+* [ ] Define how the President is elected.
+* [ ] Define presidential term length.
+* [ ] Decide whether presidential term limits exist.
+* [ ] Define qualifications for President and Vice President.
+* [ ] Define succession and incapacity procedures.
+* [ ] Define commander-in-chief authority.
+* [ ] Define appointment power.
+* [ ] Define treaty power.
+* [ ] Define ambassador and foreign-relations authority.
+* [ ] Define periodic reporting duties, such as a State of the Union or
+similar public report.
+* [ ] Decide whether a pardon power exists and, if so, its limits.
+* [ ] Define the duty to faithfully execute the laws.
+* [ ] Define impeachment or removal procedure separate from Revocation
+Votes, if desired.
++
+The current draft names a President and Vice President, but many
+ordinary executive powers and limits remain undefined. These details
+matter because executive ambiguity tends to be exploited during crises.
+
+=== Judicial Structure
+
+* [ ] Define judicial appointment and confirmation.
+* [ ] Define judicial tenure or term limits.
+* [ ] Define judicial compensation protections.
+* [ ] Define Supreme Court size or the process for setting its size.
+* [ ] Define federal court jurisdiction.
+* [ ] Distinguish original jurisdiction from appellate jurisdiction.
+* [ ] Define the right to trial by jury.
+* [ ] Define treason and its evidentiary standard.
++
+The proposal has judicial review, but the judiciary also needs an
+institutional design: who becomes a judge, how long judges serve, what
+cases federal courts may hear, and what trial protections apply.
+
+=== Individual Rights
+
+* [ ] Religion, including free exercise and establishment limits.
+* [ ] Freedom of the press.
+* [ ] Assembly.
+* [ ] Petitioning the government.
+* [ ] Arms.
+* [ ] Quartering of soldiers.
+* [ ] Search and seizure.
+* [ ] Warrants and probable cause.
+* [ ] Due process.
+* [ ] Takings of property and compensation.
+* [ ] Self-incrimination.
+* [ ] Double jeopardy.
+* [ ] Right to counsel.
+* [ ] Speedy and public trial.
+* [ ] Confrontation of witnesses.
+* [ ] Compulsory process for obtaining witnesses.
+* [ ] Civil jury trials.
+* [ ] Excessive bail.
+* [ ] Excessive fines.
+* [ ] Cruel and unusual punishment beyond the death penalty ban.
+* [ ] Unenumerated rights.
+* [ ] Reservation of powers to the people or to states.
++
+The draft strongly protects political speech and bans capital
+punishment, but many ordinary criminal-procedure, civil-procedure, and
+personal-liberty protections still need explicit treatment.
+
+=== Equal Citizenship and Civil Rights
+
+* [ ] Define citizenship by birth.
+* [ ] Define naturalized citizenship.
+* [ ] Equal protection.
+* [ ] Due process against state governments.
+* [ ] Voting-rights protections by race.
+* [ ] Voting-rights protections by sex.
+* [ ] Voting-rights protections by age, where applicable.
+* [ ] Voting-rights protections against poll taxes or wealth barriers.
+* [ ] Voting-rights protections against prior servitude or similar
+status-based exclusions.
+* [ ] Broader anti-discrimination guarantees, if desired.
++
+The current draft discusses citizens and voting eligibility, but does
+not yet fully define who is a citizen or which equality rules bind
+federal, state, and local government.
+
+=== Federalism
+
+* [ ] Supremacy of the Constitution and valid federal law.
+* [ ] Full faith and credit between states.
+* [ ] Privileges and immunities between states.
+* [ ] Extradition between states.
+* [ ] Admission of new states.
+* [ ] Changes to state boundaries.
+* [ ] Guarantee of republican government or another minimum state
+government standard.
+* [ ] Federal protection against invasion.
+* [ ] Limits on state treaties.
+* [ ] Limits on state currency.
+* [ ] Limits on state tariffs.
+* [ ] Limits on state war powers.
+* [ ] Limits on interstate compacts.
++
+The current draft references federal, state, and local government, but
+the relationship among them still needs rules. Federalism rules prevent
+confusion about which government controls when legal systems overlap.
+
+=== Fiscal Rules
+
+* [ ] Appropriations requirement before public money is spent.
+* [ ] Public accounting of revenue and expenditures.
+* [ ] Debt authority and debt limits, if any.
+* [ ] Uniformity rules for federal taxes.
+* [ ] Export tax limits, if desired.
+* [ ] Limits on drawing money from the treasury.
+* [ ] Budget process.
+* [ ] Emergency spending rules.
++
+The tax and benefits article sets important principles for continuity
+and incentives, but the constitution also needs mechanical rules for how
+money is authorized, spent, audited, borrowed, and reported.
+
+=== Foreign Affairs and War
+
+* [ ] Treaty process.
+* [ ] Ambassador appointments and duties.
+* [ ] Recognition of foreign governments.
+* [ ] Declaration of war.
+* [ ] Military funding limits.
+* [ ] Civilian control of the military outside martial law.
+* [ ] Division of war powers between Congress and the President.
++
+Emergency powers and martial law are addressed, but ordinary foreign
+affairs and military authority still need a peacetime structure.
+
+=== Constitutional Amendment and Ratification
+
+* [ ] Who may propose amendments.
+* [ ] Vote thresholds for proposing amendments.
+* [ ] Ratification method.
+* [ ] Public vote requirements, if any.
+* [ ] State approval requirements, if any.
+* [ ] Constitutional convention process.
+* [ ] Time limits for ratification.
+* [ ] List of unamendable clauses.
++
+Some articles already say they cannot be amended, but the draft needs a
+general amendment process for everything else.
+
+=== Public Office Rules
+
+* [ ] Oath of office.
+* [ ] Incompatibility of offices.
+* [ ] Emoluments, gifts, and foreign payments.
+* [ ] Bribery limits.
+* [ ] Titles of nobility.
+* [ ] Residency requirements.
+* [ ] Age requirements.
+* [ ] Citizenship requirements.
+* [ ] Financial disclosure.
+* [ ] Conflict-of-interest rules.
++
+Public-office rules help define who may hold power and what outside
+interests are incompatible with public duty.
+
+=== Transition and Continuity
+
+* [ ] Effective date.
+* [ ] Continuity of existing laws.
+* [ ] Continuity of courts.
+* [ ] Continuity of agencies.
+* [ ] Treatment of existing public debts.
+* [ ] Treatment of current officeholders.
+* [ ] First elections under the new constitution.
+* [ ] First appointments under the new constitution.
++
+If this proposal replaces an existing constitutional system, it needs a
+transition article. Without one, even a well-designed system can become
+uncertain at the moment it takes effect.

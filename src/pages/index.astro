@@ -1,11 +1,13 @@
 ---
 import NewConstitutionTOC from '../asciiDoc/new_constitution.toc.astro';
 import NewConstitutionContent from '../asciiDoc/new_constitution.astro';
+import PrimaryLinks from '../components/PrimaryLinks.astro';
 import Layout from '../layouts/documentWithNav.astro';
 ---
 
 <Layout>
   <Fragment slot="nav">
+    <PrimaryLinks current="constitution" />
     <NewConstitutionTOC />
   </Fragment>
   <Fragment slot="article">

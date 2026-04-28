@@ -1,0 +1,42 @@
+---
+type PageKey = 'constitution' | 'transition' | 'todo';
+
+interface Props {
+  current: PageKey;
+}
+
+const { current } = Astro.props;
+
+const links: { key: PageKey; href: string; label: string }[] = [
+  { key: 'constitution', href: '/', label: 'Constitution' },
+  { key: 'transition', href: '/transition', label: 'Transition Plan' },
+  { key: 'todo', href: '/constitution_todo', label: 'Constitution TODO' },
+];
+---
+
+<div class="mb-6 rounded bg-white p-3 shadow-sm dark:bg-slate-900">
+  <h2 class="mt-0 text-sm font-bold no-underline">Primary Pages</h2>
+  <ul class="m-0 list-none p-0">
+    {
+      links.map((link) => {
+        const isCurrent = link.key === current;
+        return (
+          <li class="my-1 p-0">
+            <a
+              aria-current={isCurrent ? 'page' : undefined}
+              class:list={[
+                'block rounded px-3 py-2 text-sm no-underline',
+                isCurrent
+                  ? 'bg-blue-700 font-bold text-white dark:bg-blue-800 dark:text-inherit'
+                  : 'bg-slate-100 hover:bg-slate-300 dark:bg-slate-950 dark:hover:bg-slate-700',
+              ]}
+              href={link.href}
+            >
+              {link.label}
+            </a>
+          </li>
+        );
+      })
+    }
+  </ul>
+</div>

@@ -1,0 +1,16 @@
+---
+import TodoTOC from '../asciiDoc/todo.toc.astro';
+import TodoContent from '../asciiDoc/todo.astro';
+import PrimaryLinks from '../components/PrimaryLinks.astro';
+import Layout from '../layouts/documentWithNav.astro';
+---
+
+<Layout>
+  <Fragment slot="nav">
+    <PrimaryLinks current="todo" />
+    <TodoTOC />
+  </Fragment>
+  <Fragment slot="article">
+    <TodoContent />
+  </Fragment>
+</Layout>

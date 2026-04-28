@@ -68,11 +68,73 @@ wealth without limits is not considered harm.
 ==== Section 4 — Permanence
 This Article cannot be changed or amended.
 
+[[article-3--delegated-power-speech-and-artificial-entities]]
+=== Article 3 — Delegated Power, Speech, and Artificial Entities
+
+[[section-1--all-public-power-is-delegated]]
+==== Section 1 — All Public Power Is Delegated
+The government has no power of its own. All public authority comes from
+the people and may be exercised only where this Constitution expressly
+grants it. No office, agency, branch, or public body may claim any
+independent will, interest, right, or legitimacy separate from the
+people.
+
+[[section-2--no-self-originating-authority]]
+==== Section 2 — No Self-Originating Authority
+The government may not create power for itself. Necessity, tradition,
+administrative convenience, institutional interest, and claims of
+self-preservation are not independent sources of public authority. When
+power is exercised, the burden remains on the government to show that
+the people granted that power through this Constitution.
+
+[[section-3--narrow-authority-over-speech]]
+==== Section 3 — Narrow Authority Over Speech
+The government is granted only a narrow authority to impose criminal or
+civil penalties for speech. That authority exists only where speech
+plainly, intentionally, and willfully incites imminent physically violent action that would result in death or serious bodily injury.
+No other speech may be made subject to criminal penalty, civil penalty,
+official retaliation, administrative punishment, licensing consequence,
+policy restriction, or other state-imposed burden by statute,
+regulation, policy, or practice. Where competency is required to be ascertained by this Constitution,
+spicific speach that speaks to relevant competencies can be used to determine the required competency assessment.
+Allowances and penalties that arise after the assessment are not penalties of the supporting speach itself.
+
+[[section-4--corporate-entities-as-public-creations]]
+==== Section 4 — Corporate Entities as Public Creations
+Corporate entities are privileged legal fictions permitted by the
+people through law. They do not exist by natural right. The government
+is granted authority to create, monitor, regulate, limit, tax, and
+dissolve corporate entities as necessary to carry out the other powers
+and duties established by this Constitution.
+
+[[section-5--corporate-entities-and-expression]]
+==== Section 5 — Corporate Entities and Expression
+Corporate entities are not natural persons and are not granted an
+independent right of speech, conscience, belief, or political opinion
+under this Constitution. The natural persons who form, own, manage,
+work for, or otherwise participate in a corporate entity retain their
+own individual rights of speech.
+
+A corporate entity may carry, host, transmit, print, manufacture, sell,
+fund infrastructure for, or otherwise facilitate the expression of
+natural persons as provided by law. Such facilitation does not grant the
+corporate entity a political opinion or speech right of its own.
+
+The government is granted authority to regulate, limit, or prohibit the
+use of corporate funds, assets, mechanisms, or coordinated output for
+political advocacy, campaign activity, or other expressive conduct
+claimed in the name of the corporate entity itself.
+
+[[section-6--permanence-1]]
+==== Section 6 — Permanence
+This Article cannot be changed or amended in any way that grants the
+government an independent source of authority separate from the people.
+
 [[part-ii--power-of-the-people]]
 == Part II — Power of the People
 
-[[article-3--revocation-votes]]
-=== Article 3 — Revocation Votes
+[[article-4--revocation-votes]]
+=== Article 4 — Revocation Votes
 
 [[section-1--purpose]]
 ==== Section 1 — Purpose
@@ -228,8 +290,8 @@ The percentages in this Article may only be lowered. The age threshold
 for Revocation Votes may be changed, but not raised above 18 years old.
 No other changes to this Article may be made.
 
-[[article-4--civic-education-and-responsibility]]
-=== Article 4 — Civic Education and Responsibility
+[[article-5--civic-education-and-responsibility]]
+=== Article 5 — Civic Education and Responsibility
 
 [[section-1--right-to-civic-knowledge]]
 ==== Section 1 — Right to Civic Knowledge
@@ -307,8 +369,8 @@ Constitution aims to keep government tied to reality and to the lives of
 the people it governs.
 ****
 
-[[article-5--citizen-feedback]]
-=== Article 5 — Citizen Feedback
+[[article-6--citizen-feedback]]
+=== Article 6 — Citizen Feedback
 
 [[section-1--purpose-1]]
 ==== Section 1 — Purpose
@@ -353,8 +415,8 @@ government with jurisdiction over that citizen. This includes, at
 minimum: the relevant municipality, county, state, and federal bodies.
 No feedback is directed at any single official or body. Each level of
 government receives a complete copy of all feedback from the citizens
-within its jurisdiction. This ensures that every layer of government can
-observe how its citizens are living, what they are experiencing, and
+within its jurisdiction. This ensures that every layer of government
+is made aware of how its citizens are living, what they are experiencing, and
 what they believe needs to change. The compiled feedback shall be
 delivered no later than thirty days after the close of the voting
 period.
@@ -384,26 +446,35 @@ the public record without modification.
 [[part-iii--political-communication-and-elections]]
 == Part III — Political Communication and Elections
 
-[[article-6--political-speech]]
-=== Article 6 — Political Speech
+[[article-7--political-speech]]
+=== Article 7 — Political Speech
 
 [[section-1--individual-political-speech]]
 ==== Section 1 — Individual Political Speech
-People have an absolute right to political speech.
+Natural persons retain the full political speech protections recognized
+by this Constitution.
 
-[[section-2--organizational-political-speech]]
-==== Section 2 — Organizational Political Speech
-Organizations may participate in political speech, subject to the limits
-described in this Article.
+[[section-2--organizational-facilitation-of-speech]]
+==== Section 2 — Organizational Facilitation of Speech
+Organizations may carry, host, transmit, print, broadcast, distribute,
+manufacture, or otherwise facilitate the political speech of natural
+persons, subject to the limits described in this Article and elsewhere
+in this Constitution.
 
-[[section-3--election-silence-period]]
-==== Section 3 — Election Silence Period
+[[section-3--no-independent-organizational-political-opinion]]
+==== Section 3 — No Independent Organizational Political Opinion
+No organization may claim an independent political opinion, conscience,
+belief, or candidate preference under this Constitution merely because
+it has legal existence.
+
+[[section-4--election-silence-period]]
+==== Section 4 — Election Silence Period
 During the 60 days before an election or Revocation Vote, organizations
 may not promote candidates or argue which candidate should win. This
 period belongs exclusively to the people.
 
-[[section-4--exceptions]]
-==== Section 4 — Exceptions
+[[section-5--exceptions]]
+==== Section 5 — Exceptions
 Exceptions exist for factual reporting concerning:
 
 **** criminal convictions
@@ -411,8 +482,8 @@ Exceptions exist for factual reporting concerning:
 **** verified misconduct
 **** factual explanations of the duties of a public office
 
-[[section-5--challenges]]
-==== Section 5 — Challenges
+[[section-6--challenges]]
+==== Section 6 — Challenges
 Improper claims of exemption may be challenged by a public petition
 containing:
 
@@ -423,8 +494,8 @@ that its position is more likely true than not. Both attorneys will be
 randomly selected from licensed attorneys within the area where the case
 is being heard. (Additional enforcement provisions to be completed.)
 
-[[article-7--full-ballot-eligibility]]
-=== Article 7 — Full Ballot Eligibility
+[[article-8--full-ballot-eligibility]]
+=== Article 8 — Full Ballot Eligibility
 
 [[section-1--purpose-2]]
 ==== Section 1 — Purpose
@@ -486,7 +557,7 @@ the ballot. The citizen completes the test first, and then receives the
 appropriate ballot based on the result. A citizen who answers all
 questions correctly shall receive a full ballot. A citizen who answers
 any question incorrectly shall receive a Revocation ballot and shall be
-eligible to submit a complaint as described in Article 5. A citizen may
+eligible to submit a complaint as described in Article 6. A citizen may
 decline to take the test and shall receive a Revocation ballot. The test
 shall be available in any language in which the official election
 platform is available.
@@ -524,8 +595,8 @@ automatically be entitled to a full ballot without any eligibility test.
 No law, regulation, or administrative rule may impose a substitute
 eligibility requirement in its place.
 
-[[article-8--campaign-structure]]
-=== Article 8 — Campaign Structure
+[[article-9--campaign-structure]]
+=== Article 9 — Campaign Structure
 
 [[section-1--public-campaign-funding]]
 ==== Section 1 — Public Campaign Funding
@@ -594,8 +665,8 @@ generations.
 [[part-iv--limits-on-state-power]]
 == Part IV — Limits on State Power
 
-[[article-9--prohibition-of-capital-punishment]]
-=== Article 9 — Prohibition of Capital Punishment
+[[article-10--prohibition-of-capital-punishment]]
+=== Article 10 — Prohibition of Capital Punishment
 
 [[section-1--ban-on-execution]]
 ==== Section 1 — Ban on Execution
@@ -609,8 +680,8 @@ This prohibition exists to prevent political misuse of criminal
 punishment, including the targeting of political opponents or innocent
 citizens.
 
-[[article-10--government-use-of-lethal-force]]
-=== Article 10 — Government Use of Lethal Force
+[[article-11--government-use-of-lethal-force]]
+=== Article 11 — Government Use of Lethal Force
 
 [[section-1--limited-authorization]]
 ==== Section 1 — Limited Authorization
@@ -647,8 +718,8 @@ searchable and accessible format and maintained for a period of at least
 [[part-v--legislative-accountability-and-structure]]
 == Part V — Legislative Accountability and Structure
 
-[[article-11--transparency-of-legislative-votes]]
-=== Article 11 — Transparency of Legislative Votes
+[[article-12--transparency-of-legislative-votes]]
+=== Article 12 — Transparency of Legislative Votes
 The people have an undeniable right to know how their representatives
 vote. Representatives get their power from the people they serve. They
 have no right to hide how they use that power. If a vote must be cast,
@@ -696,8 +767,8 @@ tough tradeoffs and making the case for their decisions. This habit,
 practiced openly over time, helps build the kind of informed public that
 good government depends on.
 
-[[article-12--independence-between-chambers-of-the-legislature]]
-=== Article 12 — Independence Between Chambers of the Legislature
+[[article-13--independence-between-chambers-of-the-legislature]]
+=== Article 13 — Independence Between Chambers of the Legislature
 
 [[section-1--why-multiple-chambers-exist]]
 ==== Section 1 — Why Multiple Chambers Exist
@@ -781,7 +852,7 @@ legislative record
 term Evidence of prohibited coordination shall be submitted to the
 appropriate oversight body and entered into the permanent public record.
 Citizens may file a complaint using the petition process established in
-Article 5 of this Constitution. Nothing in this Article prevents
+Article 6 of this Constitution. Nothing in this Article prevents
 criminal prosecution where the law has been broken.
 
 [[section-7--state-legislatures]]
@@ -790,8 +861,8 @@ This Article applies equally to all state legislatures that have more
 than one chamber. Legislatures with only one chamber are exempt from
 this Article.
 
-[[article-13--federal-government-basic-structure]]
-=== Article 13 — Federal Government: Basic Structure
+[[article-14--federal-government-basic-structure]]
+=== Article 14 — Federal Government: Basic Structure
 
 [[section-1--federal-structure]]
 ==== Section 1 — Federal Structure
@@ -811,7 +882,7 @@ House of Representatives shall be the lower chamber of Congress and
 shall represent the people in the making of federal law. The Senate
 shall be the upper chamber of Congress and shall participate equally in
 the making of federal law, subject to the changes expressly stated in
-Article 14 of this Constitution.
+Article 15 of this Constitution.
 
 [[section-3--executive-branch]]
 ==== Section 3 — Executive Branch
@@ -875,8 +946,8 @@ judiciary shall decide cases arising under federal law and this
 Constitution, subject to any express changes made elsewhere in this
 Constitution.
 
-[[article-14--federal-senate-seats-based-on-population]]
-=== Article 14 — Federal Senate: Seats Based on Population
+[[article-15--federal-senate-seats-based-on-population]]
+=== Article 15 — Federal Senate: Seats Based on Population
 Senate seats shall be divided up based on how many people live in each
 state.
 
@@ -936,8 +1007,8 @@ ratification, once every group of Senate seats has gone through at least
 one election under the new rules.
 ****
 
-[[article-15--federal-lawmaking-process]]
-=== Article 15 — Federal Lawmaking Process
+[[article-16--federal-lawmaking-process]]
+=== Article 16 — Federal Lawmaking Process
 Federal law shall be made through a public process that allows proposal,
 debate, review, approval, veto, override, and constitutional challenge.
 
@@ -1058,8 +1129,92 @@ derivative bill becomes law, the text of the original proposal and the
 final enacted text shall be preserved side by side in the permanent
 public record for public review.
 
-[[article-16--citizen-advisory-panels]]
-=== Article 16 — Citizen Advisory Panels
+[[article-17--taxes-benefits-and-continuity]]
+=== Article 17 — Taxes, Benefits, and Continuity
+Taxes, public benefits, tax credits, tax deductions, and other public
+systems that alter the resources available to a person or organization
+shall be designed so that ordinary improvement in income, revenue, or
+productive activity does not make the person or organization worse off.
+
+[[section-1--basic-costs-of-life]]
+==== Section 1 — Basic Costs of Life
+Taxes on natural persons shall recognize that there are basic costs
+required for ordinary daily life that do not rise and fall in direct
+proportion to income. These costs shall be considered when establishing
+tax burdens, benefit structures, credits, deductions, and other public
+financial obligations affecting natural persons.
+
+[[section-2--basic-costs-of-organizational-existence]]
+==== Section 2 — Basic Costs of Organizational Existence
+Taxes on organizations shall recognize that there are basic costs
+required for continued lawful existence that do not rise and fall in
+direct proportion to income or revenue. These costs include ordinary
+filings, compliance duties, recordkeeping duties, and other basic
+obligations required by law. They shall be considered when establishing
+tax burdens, credits, deductions, and other public financial obligations
+affecting organizations.
+
+[[section-3--continuous-tax-and-benefit-functions]]
+==== Section 3 — Continuous Tax and Benefit Functions
+Tax rates, benefit rates, credit values, deduction values, phase-ins,
+phase-outs, and similar financial rules shall be composed of continuous
+mathematical functions, except where a tax, benefit, credit, or
+deduction reaches zero and is capped at zero. A law may allow an
+uncapped function if the people and the government determine that the
+uncapped form serves the public.
+
+[[section-4--no-local-maximum-in-take-home-resources]]
+==== Section 4 — No Local Maximum in Take-Home Resources
+No combination of taxes, benefits, credits, deductions, fees, or similar
+public financial rules may create a local maximum in cumulative
+take-home resources. For natural persons, increased income may not
+result in lower cumulative take-home pay or available resources than
+would have existed at a lower income. For organizations, increased
+income, revenue, or productive activity may not result in lower
+cumulative available resources than would have existed at a lower level
+of income, revenue, or productive activity.
+
+[[section-5--no-benefit-cliffs-or-tax-cliffs]]
+==== Section 5 — No Benefit Cliffs or Tax Cliffs
+Sharp discontinuous transitions in tax or benefit systems are forbidden
+unless the discontinuity exists only because a tax, benefit, credit, or
+deduction has reached zero and cannot fall below zero. No person or
+organization shall be placed in a position where earning one additional
+dollar, receiving one additional dollar of revenue, or modestly
+increasing productive activity causes a loss of one dollar or more in
+cumulative take-home resources through the combined operation of public
+financial rules.
+
+[[section-6--credits-and-deductions]]
+==== Section 6 — Credits and Deductions
+All tax credits shall be refundable. Tax credits and tax deductions
+shall comply with the continuity, no-cliff, and no-local-maximum
+requirements of this Article. Eligibility for a credit or deduction may
+not end through a sharp cutoff except where the value of that credit or
+deduction has continuously reached zero and can fall no lower.
+
+[[section-7--exclusive-forms-of-tax-incentive]]
+==== Section 7 — Exclusive Forms of Tax Incentive
+Every tax incentive, tax preference, or tax reduction strategy created
+by law shall take the form of a tax credit or tax deduction. Other
+schemes for reducing tax burdens, especially schemes designed to avoid
+the continuity requirements of this Article, are forbidden.
+
+[sidebar]
+****
+*Constitutional Note (Context and Principles)*
+
+This Article is intended to prevent poverty traps, benefit cliffs, tax
+cliffs, and similar structures that make people or organizations afraid
+to improve their circumstances. Public financial systems may still be
+progressive, redistributive, and responsive to need, but they must be
+designed so that improvement is not punished by a sudden or greater
+loss. The goal is not to require one particular formula, but to require
+lawmakers to use formulas that preserve a continuous path forward.
+****
+
+[[article-18--citizen-advisory-panels]]
+=== Article 18 — Citizen Advisory Panels
 Citizen advisory panels exist so that all branches of the federal
 government may directly consult a random group of citizens when public
 opinion is uncertain or significantly in doubt.
@@ -1117,8 +1272,8 @@ Their use may be especially valuable when substantial time has passed
 since the last election and public sentiment may have changed.
 ****
 
-[[article-17--judicial-review-and-constitutional-review]]
-=== Article 17 — Judicial Review and Constitutional Review
+[[article-19--judicial-review-and-constitutional-review]]
+=== Article 19 — Judicial Review and Constitutional Review
 The judicial branch has the duty to compare laws and government action
 against this Constitution and to refuse effect to what violates it.
 
@@ -1190,8 +1345,8 @@ weakening constitutional limits.
 [[part-vi--emergency-powers-and-disaster-preparedness]]
 == Part VI — Emergency Powers and Disaster Preparedness
 
-[[article-18--disaster-preparedness]]
-=== Article 18 — Disaster Preparedness
+[[article-20--disaster-preparedness]]
+=== Article 20 — Disaster Preparedness
 
 [[section-1--duty-to-prepare]]
 ==== Section 1 — Duty to Prepare
@@ -1234,8 +1389,8 @@ extraordinary powers and to keep any emergency response as narrow,
 temporary, and accountable as possible. No emergency plan may be written
 or used as a pretext to permanently expand state power.
 
-[[article-19--emergency-powers-and-martial-law]]
-=== Article 19 — Emergency Powers and Martial Law
+[[article-21--emergency-powers-and-martial-law]]
+=== Article 21 — Emergency Powers and Martial Law
 
 [[section-1--narrow-authorization]]
 ==== Section 1 — Narrow Authorization

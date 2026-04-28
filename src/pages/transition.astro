@@ -1,11 +1,13 @@
 ---
 import TransitionPlanTOC from '../asciiDoc/transition_plan.toc.astro';
 import TransitionPlanContent from '../asciiDoc/transition_plan.astro';
+import PrimaryLinks from '../components/PrimaryLinks.astro';
 import Layout from '../layouts/documentWithNav.astro';
 ---
 
 <Layout>
   <Fragment slot="nav">
+    <PrimaryLinks current="transition" />
     <TransitionPlanTOC />
   </Fragment>
   <Fragment slot="article">
