@@ -1297,8 +1297,59 @@ here is unconstitutional, the court may declare that use of that power
 without effect. All uses of this declaration power shall serve to return
 things to the status they were in before the unconstitutional action.
 
-[[section-3--no-judicial-rewriting]]
-==== Section 3 — No Judicial Rewriting
+[[section-3--injunctions-during-constitutional-review]]
+==== Section 3 — Injunctions During Constitutional Review
+When a law, order, policy, memorandum, regulation, act, or other use of
+public power is under constitutional review, a court may issue an
+injunction against the governmental body responsible for acting under
+it. The injunction may forbid further action, pause enforcement, and
+require restoration of the status quo until the court can make a full
+ruling.
+
+An injunction may issue when persons affected by the challenged action
+would otherwise face imminent severe harm. Severe harm includes
+financial, physical, emotional, and psychological harm. The government
+is not entitled to act first and justify later when its action may be
+unconstitutional.
+
+The scope of an injunction shall be broad enough to protect the people
+affected by the challenged action. Where the action applies nationwide,
+statewide, municipality-wide, or across any other defined jurisdiction
+or region, the injunction may apply across that same area. Broad
+injunctions exist to protect the people from attempts by public
+servants or public bodies to exercise power the people did not grant.
+
+Multiple injunctions concerning the same or similar law, order, policy,
+memorandum, regulation, act, or other use of public power may be issued
+as a court deems appropriate. When prior injunctions have already
+reviewed the same or similar action, later injunctions should ordinarily
+be subject to a higher standard or narrower scope to account for the
+pre-existing judicial review.
+
+The broad injunctive power described in this Section may be used for a
+law, order, policy, memorandum, regulation, act, or other use of public
+power that began enforcement within the previous 36 months. A new
+executive interpretation of an existing law, or a new and novel
+enforcement of an existing law, shall be treated as new action for the
+first 36 months of its implementation. After that period, a court may
+not issue a new broad injunction under this Section. Broad injunctions
+issued in cases that arose within the 36-month period may continue past
+that period as necessary for those cases.
+
+This time limit is intended to preserve the longstanding status quo
+while constitutional questions are decided. For newly enforced law or
+public action, the status quo may require pausing implementation. For
+law or public action that has been in force for more than 36 months, the
+status quo is continued enforcement unless and until the court reaches a
+final ruling or grants narrower relief authorized by law.
+
+Congress may seek pre-enactment constitutional review to minimize this
+risk. If Congress chooses to enact a law without seeking that review, it
+accepts that a broad injunction may be a likely consequence of fast-tracking
+the law before its constitutionality has been fully determined.
+
+[[section-4--no-judicial-rewriting]]
+==== Section 4 — No Judicial Rewriting
 A court may not rewrite legislation in order to save it. A court may not
 add language, remove language, narrow language by inventing a substitute
 rule, or prescribe a corrected version of a law in order to make that
@@ -1306,16 +1357,22 @@ law constitutional. When legislation fails constitutional review, it is
 the duty of the legislature, not the judiciary, to decide whether to
 revise it or abandon it.
 
-[[section-4--required-constitutional-analysis]]
-==== Section 4 — Required Constitutional Analysis
+[[section-5--required-constitutional-analysis]]
+==== Section 5 — Required Constitutional Analysis
 When a court holds legislation unconstitutional, it shall explain in
 detail why the legislation fails under this Constitution. The court
 shall identify the constitutional conflict and the reasoning that leads
 to its decision. The court shall not prescribe fixes, draft substitute
 text, or suggest specific edits.
 
-[[section-5--pre-enactment-constitutional-review]]
-==== Section 5 — Pre-Enactment Constitutional Review
+Constitutional claims shall receive heightened priority on the court's
+docket. Courts shall resolve constitutional questions swiftly enough to
+give the legislature and the people a meaningful opportunity to respond,
+including an opportunity to correct constitutional deficiencies within
+the same legislative session where reasonably possible.
+
+[[section-6--pre-enactment-constitutional-review]]
+==== Section 6 — Pre-Enactment Constitutional Review
 After both chambers of Congress have passed a bill in identical form,
 but before the bill is presented to the President, Congress may request
 constitutional review by a federal court as provided by law. The
@@ -1325,8 +1382,13 @@ constitutional defects, it shall explain those defects and why they
 fail, but shall not suggest fixes or prescribe specific adjustments. If
 the bill fails this review, it shall return to Congress.
 
-[[section-6--effect-of-pre-enactment-review]]
-==== Section 6 — Effect of Pre-Enactment Review
+State legislatures may also request pre-enactment constitutional review
+as provided by law. A state legislature may seek review in the courts of
+that state for state constitutional questions, and may seek review in a
+federal court for federal constitutional questions.
+
+[[section-7--effect-of-pre-enactment-review]]
+==== Section 7 — Effect of Pre-Enactment Review
 A constitutional ruling issued through pre-enactment review shall be
 binding in future litigation to the same extent as a constitutional
 ruling issued in a case. A law that survives pre-enactment review may
