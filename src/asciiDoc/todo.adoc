@@ -18,14 +18,14 @@ accident.
 
 === Congressional Structure
 
-* [ ] Define House membership, terms, districts, and apportionment.
-* [ ] Define rules for House vacancies.
-* [ ] Define Senate terms, classes, qualifications, and vacancies.
-* [ ] Define quorum rules for each chamber.
-* [ ] Define how each chamber chooses officers.
-* [ ] Define internal discipline and expulsion procedures.
-* [ ] Define compensation rules for members of Congress.
-* [ ] Decide whether legislative debate receives immunity from ordinary
+* [x] Define House membership, terms, districts, and apportionment.
+* [x] Define rules for House vacancies.
+* [x] Define Senate terms, classes, qualifications, and vacancies.
+* [x] Define quorum rules for each chamber.
+* [x] Define how each chamber chooses officers.
+* [x] Define internal discipline and expulsion procedures.
+* [x] Define compensation rules for members of Congress.
+* [x] Decide whether legislative debate receives immunity from ordinary
 legal retaliation.
 +
 The current draft creates Congress, the House, and the Senate, but it
@@ -43,8 +43,8 @@ basic internal business.
 * [ ] Currency, coinage, and counterfeiting.
 * [ ] Weights and measures.
 * [ ] Postal systems.
-* [ ] Patents, copyrights, and other limited intellectual-property
-systems.
+* [x] Patents.
+* [ ] Copyrights and other limited intellectual-property systems.
 * [ ] Creation of federal courts below the Supreme Court.
 * [ ] Piracy and offenses against international law.
 * [ ] Declaration of war.
